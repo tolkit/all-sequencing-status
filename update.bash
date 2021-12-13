@@ -5,6 +5,8 @@
 cd src
 # run the pipeline
 bash pipeline.bash
+rm hs*
+rm replay*
 # come back
 cd ..
 
