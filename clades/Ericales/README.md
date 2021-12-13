@@ -7,7 +7,9 @@
 | *Impatiens glandulifera* | Balsaminaceae | Ericales | draft |
 
 Number of species released: 1
+
 Number of species curated: 1
+
 Number of species with draft assemblies: 1
 
 # Ericales genomic data
@@ -34,5 +36,7 @@ Number of species with draft assemblies: 1
 | *Vaccinium vitis-idaea* | Ericaceae | Ericales | hic-arima2 |
 
 Number of species with Hi-C data: 11
+
 Number of species with PacBio HiFi data: 4
+
 Number of species with 10X data: 2

@@ -10,7 +10,9 @@
 | *Marthasterias glacialis* | Asteriidae | Forcipulatida | draft |
 
 Number of species released: 2
+
 Number of species curated: 2
+
 Number of species with draft assemblies: 2
 
 # Forcipulatida genomic data
@@ -25,5 +27,7 @@ Number of species with draft assemblies: 2
 | *Marthasterias glacialis* | Asteriidae | Forcipulatida | pacbio |
 
 Number of species with Hi-C data: 1
+
 Number of species with PacBio HiFi data: 2
+
 Number of species with 10X data: 1

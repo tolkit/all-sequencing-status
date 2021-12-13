@@ -6,7 +6,9 @@
 | *Ischnura elegans* | Coenagrionidae | Odonata | draft |
 
 Number of species released: 0
+
 Number of species curated: 1
+
 Number of species with draft assemblies: 1
 
 # Odonata genomic data
@@ -34,5 +36,7 @@ Number of species with draft assemblies: 1
 | *Sympetrum striolatum* | Libellulidae | Odonata | pacbio |
 
 Number of species with Hi-C data: 6
+
 Number of species with PacBio HiFi data: 7
+
 Number of species with 10X data: 6

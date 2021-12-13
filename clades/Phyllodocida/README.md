@@ -24,5 +24,7 @@
 | *Sthenelais limicola* | Sigalionidae | Phyllodocida | pacbio |
 
 Number of species with Hi-C data: 10
+
 Number of species with PacBio HiFi data: 5
+
 Number of species with 10X data: 5

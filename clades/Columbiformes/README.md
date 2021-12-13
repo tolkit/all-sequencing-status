@@ -7,7 +7,9 @@
 | *Streptopelia turtur* | Columbidae | Columbiformes | draft |
 
 Number of species released: 1
+
 Number of species curated: 1
+
 Number of species with draft assemblies: 1
 
 # Columbiformes genomic data
@@ -21,5 +23,7 @@ Number of species with draft assemblies: 1
 | *Streptopelia turtur* | Columbidae | Columbiformes | pacbio |
 
 Number of species with Hi-C data: 0
+
 Number of species with PacBio HiFi data: 1
+
 Number of species with 10X data: 1

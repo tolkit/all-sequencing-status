@@ -66,8 +66,8 @@ for key in uniq_orders:
             # think about italics here.
             key_file.write("| *" + sp + "* | " + " | ".join(row[1:]) + " |\n")
         key_file.write(
-            "\nNumber of species released: {0}\nNumber of species curated: {1}\nNumber of species with draft assemblies: {2}\n\n".format(
-                no_released, no_curated, no_draft
+            "{0}Number of species released: {1}{2}Number of species curated: {3}{4}Number of species with draft assemblies: {5}{6}{7}".format(
+                '\n', no_released, '\n\n', no_curated, '\n\n', no_draft, '\n', '\n'
             )
         )
 
@@ -134,8 +134,8 @@ for key in uniq_orders_genomic:
             # think about italics here.
             key_file.write("| *" + sp + "* | " + " | ".join(row[1:]) + " |\n")
         key_file.write(
-            "\nNumber of species with Hi-C data: {0}\nNumber of species with PacBio HiFi data: {1}\nNumber of species with 10X data: {2}\n".format(
-                no_hic, no_pacbio, no_10x
+            "{0}Number of species with Hi-C data: {1}{2}Number of species with PacBio HiFi data: {3}{4}Number of species with 10X data: {5}{6}".format(
+                '\n', no_hic, '\n\n', no_pacbio, '\n\n', no_10x, '\n'
             )
         )
 

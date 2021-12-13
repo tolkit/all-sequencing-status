@@ -8,7 +8,9 @@
 | *Quercus robur* | Fagaceae | Fagales | draft |
 
 Number of species released: 0
+
 Number of species curated: 2
+
 Number of species with draft assemblies: 2
 
 # Fagales genomic data
@@ -29,5 +31,7 @@ Number of species with draft assemblies: 2
 | *Quercus robur* | Fagaceae | Fagales | pacbio |
 
 Number of species with Hi-C data: 5
+
 Number of species with PacBio HiFi data: 5
+
 Number of species with 10X data: 2

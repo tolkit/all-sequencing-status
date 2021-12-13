@@ -25,5 +25,7 @@
 | *Trivia monacha* | Triviidae | Littorinimorpha | pacbio |
 
 Number of species with Hi-C data: 12
+
 Number of species with PacBio HiFi data: 3
+
 Number of species with 10X data: 6

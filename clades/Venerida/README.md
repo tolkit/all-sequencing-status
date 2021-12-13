@@ -15,5 +15,7 @@
 | *Venerupis corrugata* | Veneridae | Venerida | hic-arima2 |
 
 Number of species with Hi-C data: 3
+
 Number of species with PacBio HiFi data: 4
+
 Number of species with 10X data: 4

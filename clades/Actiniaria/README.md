@@ -7,7 +7,9 @@
 | *Diadumene lineata* | Diadumenidae | Actiniaria | draft |
 
 Number of species released: 1
+
 Number of species curated: 1
+
 Number of species with draft assemblies: 1
 
 # Actiniaria genomic data
@@ -27,5 +29,7 @@ Number of species with draft assemblies: 1
 | *Urticina felina* | Actiniidae | Actiniaria | hic-arima2 |
 
 Number of species with Hi-C data: 7
+
 Number of species with PacBio HiFi data: 3
+
 Number of species with 10X data: 1

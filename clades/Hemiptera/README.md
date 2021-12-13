@@ -8,7 +8,9 @@
 | *Aelia acuminata* | Pentatomidae | Hemiptera | draft |
 
 Number of species released: 1
+
 Number of species curated: 1
+
 Number of species with draft assemblies: 2
 
 # Hemiptera genomic data
@@ -126,5 +128,7 @@ Number of species with draft assemblies: 2
 | *Velia caprai* | Veliidae | Hemiptera | hic-arima2 |
 
 Number of species with Hi-C data: 37
+
 Number of species with PacBio HiFi data: 41
+
 Number of species with 10X data: 31

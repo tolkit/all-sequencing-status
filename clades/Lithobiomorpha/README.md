@@ -12,5 +12,7 @@
 | *Lithobius variegatus* | Lithobiidae | Lithobiomorpha | pacbio |
 
 Number of species with Hi-C data: 3
+
 Number of species with PacBio HiFi data: 3
+
 Number of species with 10X data: 2

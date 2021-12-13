@@ -15,7 +15,9 @@
 | *Urtica urens* | Urticaceae | Rosales | draft |
 
 Number of species released: 1
+
 Number of species curated: 4
+
 Number of species with draft assemblies: 6
 
 # Rosales genomic data
@@ -72,5 +74,7 @@ Number of species with draft assemblies: 6
 | *Urtica urens* | Urticaceae | Rosales | pacbio |
 
 Number of species with Hi-C data: 18
+
 Number of species with PacBio HiFi data: 17
+
 Number of species with 10X data: 10

@@ -7,7 +7,9 @@
 | *Caprimulgus europaeus* | Caprimulgidae | Caprimulgiformes | draft |
 
 Number of species released: 1
+
 Number of species curated: 1
+
 Number of species with draft assemblies: 1
 
 # Caprimulgiformes genomic data
@@ -20,5 +22,7 @@ Number of species with draft assemblies: 1
 | *Caprimulgus europaeus* | Caprimulgidae | Caprimulgiformes | pacbio |
 
 Number of species with Hi-C data: 1
+
 Number of species with PacBio HiFi data: 1
+
 Number of species with 10X data: 1

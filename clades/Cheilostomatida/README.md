@@ -7,7 +7,9 @@
 | *Membranipora membranacea* | Membraniporidae | Cheilostomatida | draft |
 
 Number of species released: 1
+
 Number of species curated: 1
+
 Number of species with draft assemblies: 1
 
 # Cheilostomatida genomic data
@@ -29,5 +31,7 @@ Number of species with draft assemblies: 1
 | *Watersipora subatra* | Watersiporidae | Cheilostomatida | pacbio |
 
 Number of species with Hi-C data: 4
+
 Number of species with PacBio HiFi data: 5
+
 Number of species with 10X data: 4

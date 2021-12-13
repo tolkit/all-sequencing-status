@@ -7,7 +7,9 @@
 | *Chrysoperla carnea* | Chrysopidae | Neuroptera | draft |
 
 Number of species released: 1
+
 Number of species curated: 1
+
 Number of species with draft assemblies: 1
 
 # Neuroptera genomic data
@@ -23,5 +25,7 @@ Number of species with draft assemblies: 1
 | *Sisyra nigra* | Sisyridae | Neuroptera | 10x |
 
 Number of species with Hi-C data: 2
+
 Number of species with PacBio HiFi data: 2
+
 Number of species with 10X data: 3

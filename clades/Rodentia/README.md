@@ -13,7 +13,9 @@
 | *Sciurus vulgaris* | Sciuridae | Rodentia | draft |
 
 Number of species released: 3
+
 Number of species curated: 3
+
 Number of species with draft assemblies: 3
 
 # Rodentia genomic data
@@ -43,5 +45,7 @@ Number of species with draft assemblies: 3
 | *Sciurus vulgaris* | Sciuridae | Rodentia | pacbio |
 
 Number of species with Hi-C data: 3
+
 Number of species with PacBio HiFi data: 6
+
 Number of species with 10X data: 6

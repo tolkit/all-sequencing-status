@@ -26,5 +26,7 @@
 | *Trollius europaeus* | Ranunculaceae | Ranunculales | pacbio |
 
 Number of species with Hi-C data: 6
+
 Number of species with PacBio HiFi data: 9
+
 Number of species with 10X data: 7

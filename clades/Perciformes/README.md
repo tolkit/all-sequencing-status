@@ -10,7 +10,9 @@
 | *Taurulus bubalis* | Cottidae | Perciformes | draft |
 
 Number of species released: 2
+
 Number of species curated: 2
+
 Number of species with draft assemblies: 2
 
 # Perciformes genomic data
@@ -25,5 +27,7 @@ Number of species with draft assemblies: 2
 | *Taurulus bubalis* | Cottidae | Perciformes | pacbio |
 
 Number of species with Hi-C data: 2
+
 Number of species with PacBio HiFi data: 2
+
 Number of species with 10X data: 2

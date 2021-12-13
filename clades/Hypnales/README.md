@@ -6,7 +6,9 @@
 | *Thuidium tamariscinum* | Thuidiaceae | Hypnales | draft |
 
 Number of species released: 0
+
 Number of species curated: 0
+
 Number of species with draft assemblies: 2
 
 # Hypnales genomic data
@@ -32,5 +34,7 @@ Number of species with draft assemblies: 2
 | *Thuidium tamariscinum* | Thuidiaceae | Hypnales | hic-arima2 |
 
 Number of species with Hi-C data: 3
+
 Number of species with PacBio HiFi data: 7
+
 Number of species with 10X data: 7

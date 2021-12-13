@@ -388,7 +388,9 @@
 | *Zygaena filipendulae* | Zygaenidae | Lepidoptera | draft |
 
 Number of species released: 118
+
 Number of species curated: 125
+
 Number of species with draft assemblies: 141
 
 # Lepidoptera genomic data
@@ -1233,5 +1235,7 @@ Number of species with draft assemblies: 141
 | *Zygaena filipendulae* | Zygaenidae | Lepidoptera | hic-arima2 |
 
 Number of species with Hi-C data: 202
+
 Number of species with PacBio HiFi data: 287
+
 Number of species with 10X data: 294

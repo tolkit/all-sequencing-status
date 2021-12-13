@@ -97,7 +97,9 @@
 | *Vespula vulgaris* | Vespidae | Hymenoptera | draft |
 
 Number of species released: 28
+
 Number of species curated: 31
+
 Number of species with draft assemblies: 34
 
 # Hymenoptera genomic data
@@ -290,5 +292,7 @@ Number of species with draft assemblies: 34
 | *Vespula vulgaris* | Vespidae | Hymenoptera | pacbio |
 
 Number of species with Hi-C data: 55
+
 Number of species with PacBio HiFi data: 63
+
 Number of species with 10X data: 59

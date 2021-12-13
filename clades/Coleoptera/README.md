@@ -38,7 +38,9 @@
 | *Rhagonycha fulva* | Cantharidae | Coleoptera | draft |
 
 Number of species released: 10
+
 Number of species curated: 10
+
 Number of species with draft assemblies: 14
 
 # Coleoptera genomic data
@@ -262,5 +264,7 @@ Number of species with draft assemblies: 14
 | *Xantholinus longiventris* | Staphylinidae | Coleoptera | hic-arima2 |
 
 Number of species with Hi-C data: 106
+
 Number of species with PacBio HiFi data: 54
+
 Number of species with 10X data: 55

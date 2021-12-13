@@ -16,5 +16,7 @@
 | *Pleurotus ostreatus* | Pleurotaceae | Agaricales | pacbio |
 
 Number of species with Hi-C data: 7
+
 Number of species with PacBio HiFi data: 5
+
 Number of species with 10X data: 0

@@ -10,7 +10,9 @@
 | *Rana temporaria* | Ranidae | Anura | draft |
 
 Number of species released: 2
+
 Number of species curated: 2
+
 Number of species with draft assemblies: 2
 
 # Anura genomic data
@@ -28,5 +30,7 @@ Number of species with draft assemblies: 2
 | *Rana temporaria* | Ranidae | Anura | pacbio |
 
 Number of species with Hi-C data: 0
+
 Number of species with PacBio HiFi data: 2
+
 Number of species with 10X data: 2

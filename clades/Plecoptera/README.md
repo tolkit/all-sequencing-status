@@ -11,7 +11,9 @@
 | *Nemurella pictetii* | Nemouridae | Plecoptera | draft |
 
 Number of species released: 1
+
 Number of species curated: 3
+
 Number of species with draft assemblies: 3
 
 # Plecoptera genomic data
@@ -46,5 +48,7 @@ Number of species with draft assemblies: 3
 | *Nemurella pictetii* | Nemouridae | Plecoptera | pacbio |
 
 Number of species with Hi-C data: 9
+
 Number of species with PacBio HiFi data: 7
+
 Number of species with 10X data: 8

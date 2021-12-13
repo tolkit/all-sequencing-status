@@ -12,7 +12,9 @@
 | *Meles meles* | Mustelidae | Carnivora | draft |
 
 Number of species released: 2
+
 Number of species curated: 3
+
 Number of species with draft assemblies: 3
 
 # Carnivora genomic data
@@ -33,5 +35,7 @@ Number of species with draft assemblies: 3
 | *Meles meles* | Mustelidae | Carnivora | pacbio |
 
 Number of species with Hi-C data: 1
+
 Number of species with PacBio HiFi data: 3
+
 Number of species with 10X data: 3

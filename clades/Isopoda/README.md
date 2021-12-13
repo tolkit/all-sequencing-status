@@ -19,5 +19,7 @@
 | *Porcellio scaber* | Porcellionidae | Isopoda | 10x |
 
 Number of species with Hi-C data: 6
+
 Number of species with PacBio HiFi data: 4
+
 Number of species with 10X data: 5

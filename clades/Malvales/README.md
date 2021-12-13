@@ -9,5 +9,7 @@
 | *Tilia cordata* | Malvaceae | Malvales | hic-arima2 |
 
 Number of species with Hi-C data: 4
+
 Number of species with PacBio HiFi data: 1
+
 Number of species with 10X data: 0

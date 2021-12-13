@@ -80,7 +80,9 @@
 | *Xylota sylvarum* | Syrphidae | Diptera | draft |
 
 Number of species released: 21
+
 Number of species curated: 23
+
 Number of species with draft assemblies: 32
 
 # Diptera genomic data
@@ -489,5 +491,7 @@ Number of species with draft assemblies: 32
 | *Xylota sylvarum* | Syrphidae | Diptera | pacbio |
 
 Number of species with Hi-C data: 130
+
 Number of species with PacBio HiFi data: 127
+
 Number of species with 10X data: 129

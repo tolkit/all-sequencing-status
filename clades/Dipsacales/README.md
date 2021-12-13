@@ -17,5 +17,7 @@
 | *Viburnum lantana* | Adoxaceae | Dipsacales | pacbio |
 
 Number of species with Hi-C data: 4
+
 Number of species with PacBio HiFi data: 5
+
 Number of species with 10X data: 4

@@ -9,7 +9,9 @@
 | *Steromphala cineraria* | Trochidae | Trochida | draft |
 
 Number of species released: 1
+
 Number of species curated: 2
+
 Number of species with draft assemblies: 2
 
 # Trochida genomic data
@@ -31,5 +33,7 @@ Number of species with draft assemblies: 2
 | *Tricolia pullus* | Phasianellidae | Trochida | hic-arima2 |
 
 Number of species with Hi-C data: 5
+
 Number of species with PacBio HiFi data: 4
+
 Number of species with 10X data: 4

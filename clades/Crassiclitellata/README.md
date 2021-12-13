@@ -24,5 +24,7 @@
 | *Octolasion cyaneum* | Lumbricidae | Crassiclitellata | pacbio |
 
 Number of species with Hi-C data: 8
+
 Number of species with PacBio HiFi data: 6
+
 Number of species with 10X data: 6

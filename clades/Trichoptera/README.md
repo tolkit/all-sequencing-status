@@ -11,7 +11,9 @@
 | *Limnephilus rhombicus* | Limnephilidae | Trichoptera | draft |
 
 Number of species released: 2
+
 Number of species curated: 2
+
 Number of species with draft assemblies: 3
 
 # Trichoptera genomic data
@@ -66,5 +68,7 @@ Number of species with draft assemblies: 3
 | *Silo pallipes* | Goeridae | Trichoptera | pacbio |
 
 Number of species with Hi-C data: 25
+
 Number of species with PacBio HiFi data: 11
+
 Number of species with 10X data: 10

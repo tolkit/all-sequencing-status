@@ -7,7 +7,9 @@
 | *Lineus longissimus* | Lineidae | Heteronemertea | draft |
 
 Number of species released: 1
+
 Number of species curated: 1
+
 Number of species with draft assemblies: 1
 
 # Heteronemertea genomic data
@@ -19,5 +21,7 @@ Number of species with draft assemblies: 1
 | *Lineus longissimus* | Lineidae | Heteronemertea | pacbio |
 
 Number of species with Hi-C data: 1
+
 Number of species with PacBio HiFi data: 1
+
 Number of species with 10X data: 1

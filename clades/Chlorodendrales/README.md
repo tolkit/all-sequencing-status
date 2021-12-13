@@ -7,5 +7,7 @@
 | *Tetraselmis chuii* | Chlorodendraceae | Chlorodendrales | pacbio |
 
 Number of species with Hi-C data: 1
+
 Number of species with PacBio HiFi data: 1
+
 Number of species with 10X data: 1

@@ -7,7 +7,9 @@
 | *Erithacus rubecula* | Turdidae | Passeriformes | draft |
 
 Number of species released: 1
+
 Number of species curated: 1
+
 Number of species with draft assemblies: 1
 
 # Passeriformes genomic data
@@ -22,5 +24,7 @@ Number of species with draft assemblies: 1
 | *Fringilla coelebs* | Fringillidae | Passeriformes | hic-arima2 |
 
 Number of species with Hi-C data: 2
+
 Number of species with PacBio HiFi data: 1
+
 Number of species with 10X data: 1

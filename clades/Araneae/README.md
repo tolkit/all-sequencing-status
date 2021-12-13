@@ -8,7 +8,9 @@
 | *Meta bourneti* | Tetragnathidae | Araneae | draft |
 
 Number of species released: 1
+
 Number of species curated: 1
+
 Number of species with draft assemblies: 2
 
 # Araneae genomic data
@@ -83,5 +85,7 @@ Number of species with draft assemblies: 2
 | *Zygiella x-notata* | Araneidae | Araneae | hic-arima2 |
 
 Number of species with Hi-C data: 13
+
 Number of species with PacBio HiFi data: 27
+
 Number of species with 10X data: 25

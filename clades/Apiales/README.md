@@ -5,7 +5,9 @@
 | *Hedera helix* | Araliaceae | Apiales | draft |
 
 Number of species released: 0
+
 Number of species curated: 0
+
 Number of species with draft assemblies: 1
 
 # Apiales genomic data
@@ -27,5 +29,7 @@ Number of species with draft assemblies: 1
 | *Smyrnium perfoliatum* | Apiaceae | Apiales | pacbio |
 
 Number of species with Hi-C data: 6
+
 Number of species with PacBio HiFi data: 5
+
 Number of species with 10X data: 2

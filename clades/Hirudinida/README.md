@@ -9,5 +9,7 @@
 | *Piscicola geometra* | Piscicolidae | Hirudinida | pacbio |
 
 Number of species with Hi-C data: 2
+
 Number of species with PacBio HiFi data: 1
+
 Number of species with 10X data: 2

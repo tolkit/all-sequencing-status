@@ -23,5 +23,7 @@
 | *Viola tricolor* | Violaceae | Malpighiales | hic-arima2 |
 
 Number of species with Hi-C data: 9
+
 Number of species with PacBio HiFi data: 7
+
 Number of species with 10X data: 3

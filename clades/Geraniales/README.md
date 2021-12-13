@@ -16,5 +16,7 @@
 | *Geranium sylvaticum* | Geraniaceae | Geraniales | pacbio |
 
 Number of species with Hi-C data: 5
+
 Number of species with PacBio HiFi data: 6
+
 Number of species with 10X data: 1

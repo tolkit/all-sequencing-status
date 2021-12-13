@@ -32,5 +32,7 @@
 | *Tussilago farfara* | Asteraceae | Asterales | pacbio |
 
 Number of species with Hi-C data: 11
+
 Number of species with PacBio HiFi data: 9
+
 Number of species with 10X data: 8

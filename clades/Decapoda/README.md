@@ -26,5 +26,7 @@
 | *Xantho pilipes* | Xanthidae | Decapoda | hic-arima2 |
 
 Number of species with Hi-C data: 13
+
 Number of species with PacBio HiFi data: 5
+
 Number of species with 10X data: 4

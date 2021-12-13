@@ -11,5 +11,7 @@
 | *Tritia reticulata* | Nassariidae | Neogastropoda | pacbio |
 
 Number of species with Hi-C data: 3
+
 Number of species with PacBio HiFi data: 2
+
 Number of species with 10X data: 2
