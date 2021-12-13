@@ -109,7 +109,7 @@ with open("../data/all_samples_by_genomic_data_merged.tsv") as genomic_data:
         species = row[2]
         family = row[3]
         order = row[4]
-        data_type = row[14]
+        data_type = row[13]
 
         orders_dict_genomic_data[order].append([species, family, order, data_type])
 
