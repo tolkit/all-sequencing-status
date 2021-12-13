@@ -53,6 +53,10 @@ all_genomic_data <- genomic_data_higher[
 ]
 
 ## write the data
+# remove tolids
+# as they add dups
+
+all_genomic_data[, tolid := NULL]
 
 fwrite(
     x =
