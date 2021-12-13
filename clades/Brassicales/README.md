@@ -11,12 +11,11 @@
 | *Brassica oleracea* | Brassicaceae | Brassicales | pacbio |
 | *Cakile maritima* | Brassicaceae | Brassicales | hic-arima2 |
 | *Cakile maritima* | Brassicaceae | Brassicales | pacbio |
-| *Capsella bursa-pastoris* | Brassicaceae | Brassicales | hic-arima2 |
 | *Coincya wrightii* | Brassicaceae | Brassicales | hic-arima2 |
 | *Lepidium draba* | Brassicaceae | Brassicales | pacbio |
 | *Reseda luteola* | Resedaceae | Brassicales | hic-arima2 |
 
-Number of species with Hi-C data: 7
+Number of species with Hi-C data: 6
 
 Number of species with PacBio HiFi data: 4
 

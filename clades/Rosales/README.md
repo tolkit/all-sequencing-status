@@ -28,7 +28,6 @@ Number of species with draft assemblies: 6
 | *Alchemilla alpina* | Rosaceae | Rosales | pacbio |
 | *Alchemilla arvensis* | Rosaceae | Rosales | hic-arima2 |
 | *Alchemilla arvensis* | Rosaceae | Rosales | pacbio |
-| *Comarum palustre* | Rosaceae | Rosales | hic-arima2 |
 | *Crataegus laevigata* | Rosaceae | Rosales | pacbio |
 | *Crataegus monogyna* | Rosaceae | Rosales | pacbio |
 | *Dasiphora fruticosa* | Rosaceae | Rosales | hic-arima2 |
@@ -73,7 +72,7 @@ Number of species with draft assemblies: 6
 | *Urtica urens* | Urticaceae | Rosales | hic-arima2 |
 | *Urtica urens* | Urticaceae | Rosales | pacbio |
 
-Number of species with Hi-C data: 18
+Number of species with Hi-C data: 17
 
 Number of species with PacBio HiFi data: 17
 

@@ -378,7 +378,6 @@ taxon_id	taxon_rank	scientific_name	family	order	class	phylum	kingdom	superkingd
 47519	species	Calystegia sepium	Convolvulaceae	Solanales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	0.7548828125	dicots	Calystegia_sepium	genomic_data	10x
 47519	species	Calystegia sepium	Convolvulaceae	Solanales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	0.7548828125	dicots	Calystegia_sepium	genomic_data	pacbio
 239422	species	Campanula rotundifolia	Campanulaceae	Asterales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	2.1328125	dicots	Campanula_rotundifolia	genomic_data	hic-arima2
-3719	species	Capsella bursa-pastoris	Brassicaceae	Brassicales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	0.47998046875	dicots	Capsella_bursa-pastoris	genomic_data	hic-arima2
 12990	species	Carpinus betulus	Betulaceae	Fagales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	1.171875	dicots	Carpinus_betulus	genomic_data	pacbio
 230722	species	Cerastium fontanum	Caryophyllaceae	Caryophyllales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	3.095703125	dicots	Cerastium_fontanum	genomic_data	hic-arima2
 230722	species	Cerastium fontanum	Caryophyllaceae	Caryophyllales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	3.095703125	dicots	Cerastium_fontanum	genomic_data	pacbio
@@ -402,7 +401,6 @@ taxon_id	taxon_rank	scientific_name	family	order	class	phylum	kingdom	superkingd
 37490	species	Clematis vitalba	Ranunculaceae	Ranunculales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	9	dicots	Clematis_vitalba	genomic_data	10x
 37490	species	Clematis vitalba	Ranunculaceae	Ranunculales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	9	dicots	Clematis_vitalba	genomic_data	pacbio
 400014	species	Coincya wrightii	Brassicaceae	Brassicales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	0.85009765625	dicots	Coincya_wrightii	genomic_data	hic-arima2
-57932	species	Comarum palustre	Rosaceae	Rosales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	0.53515625	dicots	Comarum_palustre	genomic_data	hic-arima2
 4123	species	Convolvulus arvensis	Convolvulaceae	Solanales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	1.30859375	dicots	Convolvulus_arvensis	genomic_data	10x
 4123	species	Convolvulus arvensis	Convolvulaceae	Solanales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	1.30859375	dicots	Convolvulus_arvensis	genomic_data	hic-arima2
 4123	species	Convolvulus arvensis	Convolvulaceae	Solanales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	1.30859375	dicots	Convolvulus_arvensis	genomic_data	pacbio
@@ -583,7 +581,6 @@ taxon_id	taxon_rank	scientific_name	family	order	class	phylum	kingdom	superkingd
 57926	species	Potentilla anserina	Rosaceae	Rosales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	0.75732421875	dicots	Potentilla_anserina	genomic_data	10x
 57926	species	Potentilla anserina	Rosaceae	Rosales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	0.75732421875	dicots	Potentilla_anserina	genomic_data	hic-arima2
 57926	species	Potentilla anserina	Rosaceae	Rosales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	0.75732421875	dicots	Potentilla_anserina	genomic_data	pacbio
-175104	species	Primula vulgaris	Primulaceae	Ericales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	0.499267578125	dicots	Primula_vulgaris	genomic_data	hic-arima2
 56535	species	Pulicaria dysenterica	Asteraceae	Asterales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	0.93359375	dicots	Pulicaria_dysenterica	genomic_data	10x
 56535	species	Pulicaria dysenterica	Asteraceae	Asterales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	0.93359375	dicots	Pulicaria_dysenterica	genomic_data	hic-arima2
 56535	species	Pulicaria dysenterica	Asteraceae	Asterales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	0.93359375	dicots	Pulicaria_dysenterica	genomic_data	pacbio

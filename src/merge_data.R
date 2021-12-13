@@ -1,6 +1,10 @@
 #!/usr/bin/env Rscript
 
 library(data.table)
+# https://stackoverflow.com/questions/1109017/how-do-you-print-to-stderr-in-r
+v <- function(...) cat(sprintf(...), sep = "", file = stderr())
+
+v("[+]\t::merge_data.R:: Merging data tables.\n")
 
 ## read in the data
 

@@ -27,11 +27,13 @@ for index, lines in enumerate(splited_lines_generator(s, 50)):
     with open("./out" + str(index) + ".txt", "w") as f:
         f.write("\n".join(lines))
 
+print("[+]\t::add_higher_taxa.py:: Querying GoaT now.", file=sys.stderr)
+
 query = """
 for file in ./out*; do
-    /software/team301/goat-cli/target/release/goat search -cf $file --ranks family
+    ./goat search -cf $file --ranks family
+    printf "[+]\tQueried $file in GoaT.\n" >&2 
 done
 rm ./out*
 """
 os.system(query)
-

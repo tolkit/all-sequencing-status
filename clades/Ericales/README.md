@@ -30,12 +30,11 @@ Number of species with draft assemblies: 1
 | *Lysimachia vulgaris* | Primulaceae | Ericales | 10x |
 | *Lysimachia vulgaris* | Primulaceae | Ericales | hic-arima2 |
 | *Lysimachia vulgaris* | Primulaceae | Ericales | pacbio |
-| *Primula vulgaris* | Primulaceae | Ericales | hic-arima2 |
 | *Sarracenia purpurea* | Sarraceniaceae | Ericales | hic-arima2 |
 | *Vaccinium uliginosum* | Ericaceae | Ericales | hic-arima2 |
 | *Vaccinium vitis-idaea* | Ericaceae | Ericales | hic-arima2 |
 
-Number of species with Hi-C data: 11
+Number of species with Hi-C data: 10
 
 Number of species with PacBio HiFi data: 4
 

@@ -390,7 +390,6 @@ dicots 	 Cakile_maritima 	 genomic_data 	 ddCakMari1 	 pacbio
 dicots 	 Calystegia_sepium 	 genomic_data 	 daCalSepi1 	 10x
 dicots 	 Calystegia_sepium 	 genomic_data 	 daCalSepi1 	 pacbio
 dicots 	 Campanula_rotundifolia 	 genomic_data 	 daCamRotu1 	 hic-arima2
-dicots 	 Capsella_bursa-pastoris 	 genomic_data 	 ddCapBurs3 	 hic-arima2
 dicots 	 Carpinus_betulus 	 genomic_data 	 dhCarBetu1 	 pacbio
 dicots 	 Cerastium_fontanum 	 genomic_data 	 dcCerFont2 	 hic-arima2
 dicots 	 Cerastium_fontanum 	 genomic_data 	 dcCerFont2 	 pacbio
@@ -414,7 +413,6 @@ dicots 	 Cichorium_intybus 	 genomic_data 	 daCicInty1 	 hic-arima2
 dicots 	 Clematis_vitalba 	 genomic_data 	 dmCleVita1 	 10x
 dicots 	 Clematis_vitalba 	 genomic_data 	 dmCleVita1 	 pacbio
 dicots 	 Coincya_wrightii 	 genomic_data 	 ddCoiWrig1 	 hic-arima2
-dicots 	 Comarum_palustre 	 genomic_data 	 drComPalu1 	 hic-arima2
 dicots 	 Convolvulus_arvensis 	 genomic_data 	 daConArve2 	 10x
 dicots 	 Convolvulus_arvensis 	 genomic_data 	 daConArve2 	 hic-arima2
 dicots 	 Convolvulus_arvensis 	 genomic_data 	 daConArve2 	 pacbio
@@ -660,7 +658,6 @@ dicots 	 Populus_tremula 	 genomic_data 	 ddPopTrem1 	 pacbio
 dicots 	 Potentilla_anserina 	 genomic_data 	 drPotAnse1 	 10x
 dicots 	 Potentilla_anserina 	 genomic_data 	 drPotAnse1 	 hic-arima2
 dicots 	 Potentilla_anserina 	 genomic_data 	 drPotAnse1 	 pacbio
-dicots 	 Primula_vulgaris 	 genomic_data 	 ddPriVulg1 	 hic-arima2
 dicots 	 Pulicaria_dysenterica 	 genomic_data 	 daPulDyse1 	 10x
 dicots 	 Pulicaria_dysenterica 	 genomic_data 	 daPulDyse1 	 hic-arima2
 dicots 	 Pulicaria_dysenterica 	 genomic_data 	 daPulDyse1 	 pacbio

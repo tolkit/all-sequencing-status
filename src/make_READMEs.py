@@ -3,6 +3,12 @@
 import os
 import csv
 from collections import Counter
+import sys
+
+print(
+    "[+]\t::make_READMEs.py:: Creating README's and adding assembly data.",
+    file=sys.stderr,
+)
 
 ## do assemblies first
 with open("../data/all_assembled_genomes_merged.tsv") as assemblies:
@@ -67,11 +73,13 @@ for key in uniq_orders:
             key_file.write("| *" + sp + "* | " + " | ".join(row[1:]) + " |\n")
         key_file.write(
             "{0}Number of species released: {1}{2}Number of species curated: {3}{4}Number of species with draft assemblies: {5}{6}{7}".format(
-                '\n', no_released, '\n\n', no_curated, '\n\n', no_draft, '\n', '\n'
+                "\n", no_released, "\n\n", no_curated, "\n\n", no_draft, "\n", "\n"
             )
         )
 
 #############################################
+
+print("[+]\t::make_READMEs.py:: Adding genomic data.", file=sys.stderr)
 
 # now do the genomic data
 with open("../data/all_samples_by_genomic_data_merged.tsv") as genomic_data:
@@ -135,7 +143,6 @@ for key in uniq_orders_genomic:
             key_file.write("| *" + sp + "* | " + " | ".join(row[1:]) + " |\n")
         key_file.write(
             "{0}Number of species with Hi-C data: {1}{2}Number of species with PacBio HiFi data: {3}{4}Number of species with 10X data: {5}{6}".format(
-                '\n', no_hic, '\n\n', no_pacbio, '\n\n', no_10x, '\n'
+                "\n", no_hic, "\n\n", no_pacbio, "\n\n", no_10x, "\n"
             )
         )
-
