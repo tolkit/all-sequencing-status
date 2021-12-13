@@ -1,5 +1,11 @@
 #!/usr/bin/env bash
 
+# now going to do this locally, because
+# it's easier
+# fetch data from server
+rsync -avhP f:/lustre/scratch123/tol/teams/blaxter/users/mb39/all_sequencing_status/all_assembled_genomes.tsv ./data/
+rsync -avhP f:/lustre/scratch123/tol/teams/blaxter/users/mb39/all_sequencing_status/all_samples_by_genomic_data.tsv ./data/
+
 # just for my convenience
 # go to src
 cd src
