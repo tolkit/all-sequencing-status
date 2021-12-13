@@ -1,14 +1,10 @@
 # Sequencing status for all species in DToL
 
-This repo documents the status of each species with data in the Darwin Tree of Life Project.
+<p align="center">
+    <img width="300" height="132" src="https://www.darwintreeoflife.org/wp-content/themes/dtol/dist/assets/gfx/dtol-logo-round.png">
+</p>
 
-The `clades` folder contains the orders of Eukaryotes for which at least one species has some data attached. A maximum of two tables are then presented, one for assemblies (either draft, curated, or released, aka public) and one for genomic data (Hi-C, PacBio or 10X).
+This repo documents the status of each species with data in the Darwin Tree of Life Project, grouped by order of Eukaryote.
 
-## Environment
+The `clades` folder contains the orders of Eukaryotes for which at least one species has some data attached. A maximum of two tables are then presented, one for assemblies (either draft, curated, or released/public) and one for genomic data (Hi-C, PacBio or 10X).
 
-Needs an R environment on the server, so:
-
-```bash
-conda create -n r-environment r-base r-data.table
-conda activate r-environment
-```
