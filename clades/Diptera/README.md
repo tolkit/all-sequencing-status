@@ -38,6 +38,7 @@
 | *Melanostoma mellinum* | Syrphidae | Diptera | curated |
 | *Platycheirus albimanus* | Syrphidae | Diptera | curated |
 | *Sarcophaga caerulescens* | Sarcophagidae | Diptera | curated |
+| *Sarcophaga carnaria* | Sarcophagidae | Diptera | curated |
 | *Scaeva pyrastri* | Syrphidae | Diptera | curated |
 | *Sicus ferrugineus* | Conopidae | Diptera | curated |
 | *Syritta pipiens* | Syrphidae | Diptera | curated |
@@ -54,6 +55,7 @@
 | *Clusia tigrina* | Clusiidae | Diptera | draft |
 | *Coremacera marginata* | Sciomyzidae | Diptera | draft |
 | *Criorhina berberina* | Syrphidae | Diptera | draft |
+| *Empis livida* | Empididae | Diptera | draft |
 | *Epistrophe grossulariae* | Syrphidae | Diptera | draft |
 | *Eristalis arbustorum* | Syrphidae | Diptera | draft |
 | *Eristalis pertinax* | Syrphidae | Diptera | draft |
@@ -81,9 +83,9 @@
 
 Number of species released: 21
 
-Number of species curated: 23
+Number of species curated: 24
 
-Number of species with draft assemblies: 32
+Number of species with draft assemblies: 33
 
 # Diptera genomic data
 

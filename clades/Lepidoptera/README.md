@@ -123,6 +123,7 @@
 | *Abrostola tripartita* | Noctuidae | Lepidoptera | curated |
 | *Acleris sparsana* | Tortricidae | Lepidoptera | curated |
 | *Acronicta aceris* | Noctuidae | Lepidoptera | curated |
+| *Agonopterix arenella* | Depressariidae | Lepidoptera | curated |
 | *Agonopterix subpropinquella* | Depressariidae | Lepidoptera | curated |
 | *Agriopis aurantiaria* | Geometridae | Lepidoptera | curated |
 | *Agrochola circellaris* | Noctuidae | Lepidoptera | curated |
@@ -144,6 +145,7 @@
 | *Blastobasis adustella* | Blastobasidae | Lepidoptera | curated |
 | *Blastobasis lacticolella* | Blastobasidae | Lepidoptera | curated |
 | *Boloria selene* | Nymphalidae | Lepidoptera | curated |
+| *Calamotropha paludella* | Crambidae | Lepidoptera | curated |
 | *Campaea margaritaria* | Geometridae | Lepidoptera | curated |
 | *Carcina quercana* | Peleopodidae | Lepidoptera | curated |
 | *Celastrina argiolus* | Lycaenidae | Lepidoptera | curated |
@@ -163,6 +165,7 @@
 | *Ennomos fuscantarius* | Geometridae | Lepidoptera | curated |
 | *Ennomos quercinarius* | Geometridae | Lepidoptera | curated |
 | *Erannis defoliaria* | Geometridae | Lepidoptera | curated |
+| *Erebia aethiops* | Nymphalidae | Lepidoptera | curated |
 | *Erebia ligea* | Nymphalidae | Lepidoptera | curated |
 | *Erynnis tages* | Hesperiidae | Lepidoptera | curated |
 | *Eulithis prunata* | Geometridae | Lepidoptera | curated |
@@ -191,8 +194,10 @@
 | *Lymantria monacha* | Erebidae | Lepidoptera | curated |
 | *Lysandra bellargus* | Lycaenidae | Lepidoptera | curated |
 | *Lysandra coridon* | Lycaenidae | Lepidoptera | curated |
+| *Macaria notata* | Geometridae | Lepidoptera | curated |
 | *Mamestra brassicae* | Noctuidae | Lepidoptera | curated |
 | *Maniola jurtina* | Nymphalidae | Lepidoptera | curated |
+| *Marasmarcha lunaedactyla* | Pterophoridae | Lepidoptera | curated |
 | *Melanargia galathea* | Nymphalidae | Lepidoptera | curated |
 | *Melitaea cinxia* | Nymphalidae | Lepidoptera | curated |
 | *Mellicta athalia* | Nymphalidae | Lepidoptera | curated |
@@ -389,7 +394,7 @@
 
 Number of species released: 118
 
-Number of species curated: 125
+Number of species curated: 130
 
 Number of species with draft assemblies: 141
 

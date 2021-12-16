@@ -243,6 +243,7 @@ dicots 	 Malus_domestica 	 curated
 dicots 	 Malus_domestica 	 curated
 dicots 	 Malus_domestica 	 curated
 dicots 	 Malus_sylvestris 	 curated
+dicots 	 Medicago_arabica 	 curated
 dicots 	 Potentilla_anserina 	 curated
 dicots 	 Quercus_robur 	 curated
 echinoderms 	 Asterias_rubens 	 curated
@@ -261,6 +262,7 @@ insects 	 Acleris_sparsana 	 curated
 insects 	 Acronicta_aceris 	 curated
 insects 	 Adalia_bipunctata 	 curated
 insects 	 Aelia_acuminata 	 curated
+insects 	 Agonopterix_arenella 	 curated
 insects 	 Agonopterix_subpropinquella 	 curated
 insects 	 Agriopis_aurantiaria 	 curated
 insects 	 Agrochola_circellaris 	 curated
@@ -302,6 +304,7 @@ insects 	 Bombus_pascuorum 	 curated
 insects 	 Bombus_sylvestris 	 curated
 insects 	 Bombus_terrestris 	 curated
 insects 	 Brachyptera_putata 	 curated
+insects 	 Calamotropha_paludella 	 curated
 insects 	 Campaea_margaritaria 	 curated
 insects 	 Cantharis_rustica 	 curated
 insects 	 Carcina_quercana 	 curated
@@ -337,6 +340,7 @@ insects 	 Endotricha_flammealis 	 curated
 insects 	 Ennomos_fuscantarius 	 curated
 insects 	 Ennomos_quercinarius 	 curated
 insects 	 Erannis_defoliaria 	 curated
+insects 	 Erebia_aethiops 	 curated
 insects 	 Erebia_ligea 	 curated
 insects 	 Eristalis_arbustorum 	 curated
 insects 	 Eristalis_pertinax 	 curated
@@ -381,16 +385,20 @@ insects 	 Lycaena_phlaeas 	 curated
 insects 	 Lymantria_monacha 	 curated
 insects 	 Lysandra_bellargus 	 curated
 insects 	 Lysandra_coridon 	 curated
+insects 	 Macaria_notata 	 curated
+insects 	 Macropis_europaea 	 curated
 insects 	 Macropis_europaea 	 curated
 insects 	 Malachius_bipustulatus 	 curated
 insects 	 Mamestra_brassicae 	 curated
 insects 	 Maniola_jurtina 	 curated
+insects 	 Marasmarcha_lunaedactyla 	 curated
 insects 	 Melanargia_galathea 	 curated
 insects 	 Melanostoma_mellinum 	 curated
 insects 	 Melitaea_cinxia 	 curated
 insects 	 Mellicta_athalia 	 curated
 insects 	 Mesoligia_furuncula 	 curated
 insects 	 Mimas_tiliae 	 curated
+insects 	 Mimumesa_dahlbomi 	 curated
 insects 	 Mimumesa_dahlbomi 	 curated
 insects 	 Mythimna_ferrago 	 curated
 insects 	 Mythimna_impura 	 curated
@@ -437,12 +445,15 @@ insects 	 Pyrgus_malvae 	 curated
 insects 	 Pyrochroa_serraticornis 	 curated
 insects 	 Rhagonycha_fulva 	 curated
 insects 	 Sarcophaga_caerulescens 	 curated
+insects 	 Sarcophaga_carnaria 	 curated
 insects 	 Scaeva_pyrastri 	 curated
 insects 	 Schrankia_costaestrigalis 	 curated
+insects 	 Seladonia_tumulorum 	 curated
 insects 	 Seladonia_tumulorum 	 curated
 insects 	 Selenia_dentaria 	 curated
 insects 	 Sesia_apiformis 	 curated
 insects 	 Sicus_ferrugineus 	 curated
+insects 	 Sphecodes_monilicornis 	 curated
 insects 	 Sphecodes_monilicornis 	 curated
 insects 	 Spilarctia_lutea 	 curated
 insects 	 Spilosoma_lubricipeda 	 curated
@@ -662,6 +673,7 @@ insects 	 Ectemnius_lituratus 	 draft
 insects 	 Eilema_depressum 	 draft
 insects 	 Eilema_sororcula 	 draft
 insects 	 Emmelina_monodactyla 	 draft
+insects 	 Empis_livida 	 draft
 insects 	 Endotricha_flammealis 	 draft
 insects 	 Endotricha_flammealis 	 draft
 insects 	 Ennomos_fuscantarius 	 draft

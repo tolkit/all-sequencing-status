@@ -21,7 +21,7 @@ cd ..
 date=$(date '+%Y-%m-%d')
 
 # push to git
-#git add .
-#git commit -m "Update on $date"
-#git push
+git add .
+git commit -m "Update on $date"
+git push
 
