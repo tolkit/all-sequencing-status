@@ -190,6 +190,7 @@
 | *Laspeyria flexula* | Erebidae | Lepidoptera | curated |
 | *Leptidea sinapis* | Pieridae | Lepidoptera | curated |
 | *Limenitis camilla* | Nymphalidae | Lepidoptera | curated |
+| *Luperina testacea* | Noctuidae | Lepidoptera | curated |
 | *Lycaena phlaeas* | Lycaenidae | Lepidoptera | curated |
 | *Lymantria monacha* | Erebidae | Lepidoptera | curated |
 | *Lysandra bellargus* | Lycaenidae | Lepidoptera | curated |
@@ -394,7 +395,7 @@
 
 Number of species released: 118
 
-Number of species curated: 130
+Number of species curated: 131
 
 Number of species with draft assemblies: 141
 

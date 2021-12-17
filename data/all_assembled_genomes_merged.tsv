@@ -358,6 +358,7 @@ taxon_id	taxon_rank	scientific_name	family	order	class	phylum	kingdom	superkingd
 270466	species	Limenitis camilla	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	0.389892578125	insects	Limenitis_camilla	curated
 1218281	species	Limnephilus lunatus	Limnephilidae	Trichoptera	Insecta	Arthropoda	Metazoa	Eukaryota	0.49951171875	insects	Limnephilus_lunatus	curated
 1271730	species	Limnephilus marmoratus	Limnephilidae	Trichoptera	Insecta	Arthropoda	Metazoa	Eukaryota	0.49951171875	insects	Limnephilus_marmoratus	curated
+988174	species	Luperina testacea	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	0.6650390625	insects	Luperina_testacea	curated
 282391	species	Lycaena phlaeas	Lycaenidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	0.22998046875	insects	Lycaena_phlaeas	curated
 78897	species	Lymantria monacha	Erebidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	1.0302734375	insects	Lymantria_monacha	curated
 138070	species	Lysandra bellargus	Lycaenidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	0.22998046875	insects	Lysandra_bellargus	curated
