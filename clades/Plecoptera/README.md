@@ -3,6 +3,8 @@
 | Species | Family | Order | Data type |
 | -- | --- | --- | --- |
 | *Brachyptera putata* | Taeniopterygidae | Plecoptera | released |
+| *Nemoura dubitans* | Nemouridae | Plecoptera | released |
+| *Nemurella pictetii* | Nemouridae | Plecoptera | released |
 | *Brachyptera putata* | Taeniopterygidae | Plecoptera | curated |
 | *Nemoura dubitans* | Nemouridae | Plecoptera | curated |
 | *Nemurella pictetii* | Nemouridae | Plecoptera | curated |
@@ -10,7 +12,7 @@
 | *Nemoura dubitans* | Nemouridae | Plecoptera | draft |
 | *Nemurella pictetii* | Nemouridae | Plecoptera | draft |
 
-Number of species released: 1
+Number of species released: 3
 
 Number of species curated: 3
 

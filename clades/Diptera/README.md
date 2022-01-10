@@ -17,6 +17,7 @@
 | *Melanostoma mellinum* | Syrphidae | Diptera | released |
 | *Platycheirus albimanus* | Syrphidae | Diptera | released |
 | *Scaeva pyrastri* | Syrphidae | Diptera | released |
+| *Sicus ferrugineus* | Conopidae | Diptera | released |
 | *Syritta pipiens* | Syrphidae | Diptera | released |
 | *Tachina fera* | Tachinidae | Diptera | released |
 | *Thecocarcelia acutangulata* | Tachinidae | Diptera | released |
@@ -81,7 +82,7 @@
 | *Xanthogramma pedissequum* | Syrphidae | Diptera | draft |
 | *Xylota sylvarum* | Syrphidae | Diptera | draft |
 
-Number of species released: 21
+Number of species released: 22
 
 Number of species curated: 24
 
@@ -440,6 +441,7 @@ Number of species with draft assemblies: 33
 | *Syritta pipiens* | Syrphidae | Diptera | 10x |
 | *Syritta pipiens* | Syrphidae | Diptera | hic-qiagen |
 | *Syritta pipiens* | Syrphidae | Diptera | pacbio |
+| *Syritta pipiens* | Syrphidae | Diptera | hic-arima2 |
 | *Syrphus ribesii* | Syrphidae | Diptera | 10x |
 | *Syrphus ribesii* | Syrphidae | Diptera | pacbio |
 | *Syrphus vitripennis* | Syrphidae | Diptera | hic-arima2 |
@@ -492,7 +494,7 @@ Number of species with draft assemblies: 33
 | *Xylota sylvarum* | Syrphidae | Diptera | hic-arima |
 | *Xylota sylvarum* | Syrphidae | Diptera | pacbio |
 
-Number of species with Hi-C data: 130
+Number of species with Hi-C data: 131
 
 Number of species with PacBio HiFi data: 127
 

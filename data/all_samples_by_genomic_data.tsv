@@ -322,6 +322,7 @@ chordates 	 Clavelina_lepadiformis 	 genomic_data 	 kaClaLepa8 	 10x
 chordates 	 Clavelina_lepadiformis 	 genomic_data 	 kaClaLepa8 	 pacbio
 chordates 	 Corella_eumyota 	 genomic_data 	 kaCorEumy4 	 hic-arima2
 chordates 	 Dendrodoa_grossularia 	 genomic_data 	 kaDenGros1 	 10x
+chordates 	 Dendrodoa_grossularia 	 genomic_data 	 kaDenGros1 	 hic-arima2
 chordates 	 Perophora_japonica 	 genomic_data 	 kaPerJapo1 	 hic-arima2
 chordates 	 Styela_clava 	 genomic_data 	 kaStyClav1 	 10x
 chordates 	 Styela_clava 	 genomic_data 	 kaStyClav1 	 hic-arima2
@@ -951,6 +952,7 @@ insects 	 Andrena_dorsata 	 genomic_data 	 iyAndDors1 	 pacbio
 insects 	 Andrena_haemorrhoa 	 genomic_data 	 iyAndHaem1 	 10x
 insects 	 Andrena_haemorrhoa 	 genomic_data 	 iyAndHaem1 	 hic-arima2
 insects 	 Andrena_haemorrhoa 	 genomic_data 	 iyAndHaem1 	 pacbio
+insects 	 Andrena_haemorrhoa 	 genomic_data 	 iyAndHaem2 	 hic-arima2
 insects 	 Andrena_hattorfiana 	 genomic_data 	 iyAndHatt1 	 hic-arima2
 insects 	 Andrena_hattorfiana 	 genomic_data 	 iyAndHatt1 	 pacbio
 insects 	 Andrena_minutula 	 genomic_data 	 iyAndMinu1 	 10x
@@ -1047,12 +1049,14 @@ insects 	 Asthena_albulata 	 genomic_data 	 ilAstAlbu1 	 hic-arima2
 insects 	 Atethmia_centrago 	 genomic_data 	 ilAteCent1 	 10x
 insects 	 Atethmia_centrago 	 genomic_data 	 ilAteCent1 	 hic-arima2
 insects 	 Atethmia_centrago 	 genomic_data 	 ilAteCent1 	 pacbio
+insects 	 Atethmia_centrago 	 genomic_data 	 ilAteCent2 	 hic-arima2
 insects 	 Athalia_circularis 	 genomic_data 	 iyAthCirc1 	 pacbio
 insects 	 Athalia_cordata 	 genomic_data 	 iyAthCord1 	 10x
 insects 	 Athalia_cordata 	 genomic_data 	 iyAthCord1 	 pacbio
 insects 	 Athalia_rosae 	 genomic_data 	 iyAthRosa1 	 10x
 insects 	 Athalia_rosae 	 genomic_data 	 iyAthRosa1 	 hic-arima2
 insects 	 Athalia_rosae 	 genomic_data 	 iyAthRosa1 	 pacbio
+insects 	 Athalia_rosae 	 genomic_data 	 iyAthRosa2 	 hic-arima2
 insects 	 Atherix_ibis 	 genomic_data 	 idAthIbis1 	 hic-arima2
 insects 	 Athrips_mouffetella 	 genomic_data 	 ilAthMouf1 	 10x
 insects 	 Athrips_mouffetella 	 genomic_data 	 ilAthMouf1 	 pacbio
@@ -2400,6 +2404,7 @@ insects 	 Pterophorus_pentadactyla 	 genomic_data 	 ilPtePent1 	 10x
 insects 	 Pterostichus_madidus 	 genomic_data 	 icPteMadi1 	 10x
 insects 	 Pterostichus_madidus 	 genomic_data 	 icPteMadi1 	 hic-arima2
 insects 	 Pterostichus_madidus 	 genomic_data 	 icPteMadi1 	 pacbio
+insects 	 Pterostichus_madidus 	 genomic_data 	 icPteMadi2 	 hic-arima2
 insects 	 Pterostichus_nigrita 	 genomic_data 	 icPteNigr1 	 hic-arima2
 insects 	 Pterostichus_strenuus 	 genomic_data 	 icPteStre1 	 10x
 insects 	 Pterostichus_strenuus 	 genomic_data 	 icPteStre1 	 pacbio
@@ -2599,6 +2604,7 @@ insects 	 Synanthedon_vespiformis 	 genomic_data 	 ilSynVesp1 	 pacbio
 insects 	 Syritta_pipiens 	 genomic_data 	 idSyrPipi1 	 10x
 insects 	 Syritta_pipiens 	 genomic_data 	 idSyrPipi1 	 hic-qiagen
 insects 	 Syritta_pipiens 	 genomic_data 	 idSyrPipi1 	 pacbio
+insects 	 Syritta_pipiens 	 genomic_data 	 idSyrPipi2 	 hic-arima2
 insects 	 Syrphus_ribesii 	 genomic_data 	 idSyrRibe1 	 10x
 insects 	 Syrphus_ribesii 	 genomic_data 	 idSyrRibe1 	 pacbio
 insects 	 Syrphus_vitripennis 	 genomic_data 	 idSyrVitr1 	 hic-arima2
@@ -2691,6 +2697,7 @@ insects 	 Trypoxylon_clavicerum 	 genomic_data 	 iyTryClav1 	 pacbio
 insects 	 Tyria_jacobaeae 	 genomic_data 	 ilTyrJaco1 	 10x
 insects 	 Tyria_jacobaeae 	 genomic_data 	 ilTyrJaco2 	 hic-arima2
 insects 	 Tytthaspis_sedecimpunctata 	 genomic_data 	 icTytSede1 	 10x
+insects 	 Tytthaspis_sedecimpunctata 	 genomic_data 	 icTytSede2 	 hic-arima2
 insects 	 Udea_olivalis 	 genomic_data 	 ilUdeOliv1 	 10x
 insects 	 Udea_prunalis 	 genomic_data 	 ilUdePrun1 	 10x
 insects 	 Udea_prunalis 	 genomic_data 	 ilUdePrun1 	 pacbio

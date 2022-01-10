@@ -4,6 +4,7 @@
 | -- | --- | --- | --- |
 | *Canis lupus* | Canidae | Carnivora | released |
 | *Lutra lutra* | Mustelidae | Carnivora | released |
+| *Meles meles* | Mustelidae | Carnivora | released |
 | *Canis lupus* | Canidae | Carnivora | curated |
 | *Lutra lutra* | Mustelidae | Carnivora | curated |
 | *Meles meles* | Mustelidae | Carnivora | curated |
@@ -11,7 +12,7 @@
 | *Lutra lutra* | Mustelidae | Carnivora | draft |
 | *Meles meles* | Mustelidae | Carnivora | draft |
 
-Number of species released: 2
+Number of species released: 3
 
 Number of species curated: 3
 

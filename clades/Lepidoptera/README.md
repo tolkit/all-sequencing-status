@@ -3,7 +3,9 @@
 | Species | Family | Order | Data type |
 | -- | --- | --- | --- |
 | *Abrostola tripartita* | Noctuidae | Lepidoptera | released |
+| *Acleris sparsana* | Tortricidae | Lepidoptera | released |
 | *Acronicta aceris* | Noctuidae | Lepidoptera | released |
+| *Agonopterix subpropinquella* | Depressariidae | Lepidoptera | released |
 | *Agriopis aurantiaria* | Geometridae | Lepidoptera | released |
 | *Agrochola circellaris* | Noctuidae | Lepidoptera | released |
 | *Agrochola macilenta* | Noctuidae | Lepidoptera | released |
@@ -11,6 +13,7 @@
 | *Amphipyra tragopoginis* | Noctuidae | Lepidoptera | released |
 | *Anthocharis cardamines* | Pieridae | Lepidoptera | released |
 | *Apamea monoglypha* | Noctuidae | Lepidoptera | released |
+| *Aplocera efformata* | Geometridae | Lepidoptera | released |
 | *Aporia crataegi* | Pieridae | Lepidoptera | released |
 | *Apotomis turbidana* | Tortricidae | Lepidoptera | released |
 | *Aricia agestis* | Lycaenidae | Lepidoptera | released |
@@ -41,9 +44,11 @@
 | *Ennomos fuscantarius* | Geometridae | Lepidoptera | released |
 | *Ennomos quercinarius* | Geometridae | Lepidoptera | released |
 | *Erannis defoliaria* | Geometridae | Lepidoptera | released |
+| *Erebia aethiops* | Nymphalidae | Lepidoptera | released |
 | *Erebia ligea* | Nymphalidae | Lepidoptera | released |
 | *Erynnis tages* | Hesperiidae | Lepidoptera | released |
 | *Eulithis prunata* | Geometridae | Lepidoptera | released |
+| *Euplexia lucipara* | Noctuidae | Lepidoptera | released |
 | *Euproctis similis* | Erebidae | Lepidoptera | released |
 | *Eupsilia transversa* | Noctuidae | Lepidoptera | released |
 | *Fabriciana adippe* | Nymphalidae | Lepidoptera | released |
@@ -70,6 +75,7 @@
 | *Lysandra coridon* | Lycaenidae | Lepidoptera | released |
 | *Mamestra brassicae* | Noctuidae | Lepidoptera | released |
 | *Maniola jurtina* | Nymphalidae | Lepidoptera | released |
+| *Marasmarcha lunaedactyla* | Pterophoridae | Lepidoptera | released |
 | *Melanargia galathea* | Nymphalidae | Lepidoptera | released |
 | *Melitaea cinxia* | Nymphalidae | Lepidoptera | released |
 | *Mellicta athalia* | Nymphalidae | Lepidoptera | released |
@@ -121,11 +127,13 @@
 | *Zeuzera pyrina* | Cossidae | Lepidoptera | released |
 | *Zygaena filipendulae* | Zygaenidae | Lepidoptera | released |
 | *Abrostola tripartita* | Noctuidae | Lepidoptera | curated |
+| *Acleris emargana* | Tortricidae | Lepidoptera | curated |
 | *Acleris sparsana* | Tortricidae | Lepidoptera | curated |
 | *Acronicta aceris* | Noctuidae | Lepidoptera | curated |
 | *Agonopterix arenella* | Depressariidae | Lepidoptera | curated |
 | *Agonopterix subpropinquella* | Depressariidae | Lepidoptera | curated |
 | *Agriopis aurantiaria* | Geometridae | Lepidoptera | curated |
+| *Agriphila tristella* | Crambidae | Lepidoptera | curated |
 | *Agrochola circellaris* | Noctuidae | Lepidoptera | curated |
 | *Agrochola macilenta* | Noctuidae | Lepidoptera | curated |
 | *Amphipyra berbera* | Noctuidae | Lepidoptera | curated |
@@ -393,9 +401,9 @@
 | *Zeuzera pyrina* | Cossidae | Lepidoptera | draft |
 | *Zygaena filipendulae* | Zygaenidae | Lepidoptera | draft |
 
-Number of species released: 118
+Number of species released: 124
 
-Number of species curated: 131
+Number of species curated: 133
 
 Number of species with draft assemblies: 141
 

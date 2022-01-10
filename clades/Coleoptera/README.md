@@ -260,10 +260,11 @@ Number of species with draft assemblies: 14
 | *Timarcha tenebricosa* | Chrysomelidae | Coleoptera | 10x |
 | *Timarcha tenebricosa* | Chrysomelidae | Coleoptera | hic-arima2 |
 | *Tytthaspis sedecimpunctata* | Coccinellidae | Coleoptera | 10x |
+| *Tytthaspis sedecimpunctata* | Coccinellidae | Coleoptera | hic-arima2 |
 | *Uleiota planatus* | Silvanidae | Coleoptera | hic-arima2 |
 | *Xantholinus longiventris* | Staphylinidae | Coleoptera | hic-arima2 |
 
-Number of species with Hi-C data: 106
+Number of species with Hi-C data: 107
 
 Number of species with PacBio HiFi data: 54
 
