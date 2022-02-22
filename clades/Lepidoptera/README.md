@@ -3,10 +3,13 @@
 | Species | Family | Order | Data type |
 | -- | --- | --- | --- |
 | *Abrostola tripartita* | Noctuidae | Lepidoptera | released |
+| *Acleris emargana* | Tortricidae | Lepidoptera | released |
 | *Acleris sparsana* | Tortricidae | Lepidoptera | released |
 | *Acronicta aceris* | Noctuidae | Lepidoptera | released |
 | *Agonopterix subpropinquella* | Depressariidae | Lepidoptera | released |
 | *Agriopis aurantiaria* | Geometridae | Lepidoptera | released |
+| *Agriphila geniculea* | Crambidae | Lepidoptera | released |
+| *Agriphila tristella* | Crambidae | Lepidoptera | released |
 | *Agrochola circellaris* | Noctuidae | Lepidoptera | released |
 | *Agrochola macilenta* | Noctuidae | Lepidoptera | released |
 | *Amphipyra berbera* | Noctuidae | Lepidoptera | released |
@@ -25,6 +28,7 @@
 | *Blastobasis adustella* | Blastobasidae | Lepidoptera | released |
 | *Blastobasis lacticolella* | Blastobasidae | Lepidoptera | released |
 | *Boloria selene* | Nymphalidae | Lepidoptera | released |
+| *Calamotropha paludella* | Crambidae | Lepidoptera | released |
 | *Campaea margaritaria* | Geometridae | Lepidoptera | released |
 | *Carcina quercana* | Peleopodidae | Lepidoptera | released |
 | *Celastrina argiolus* | Lycaenidae | Lepidoptera | released |
@@ -66,13 +70,16 @@
 | *Hypena proboscidalis* | Erebidae | Lepidoptera | released |
 | *Idaea aversata* | Geometridae | Lepidoptera | released |
 | *Laothoe populi* | Sphingidae | Lepidoptera | released |
+| *Lasiommata megera* | Nymphalidae | Lepidoptera | released |
 | *Laspeyria flexula* | Erebidae | Lepidoptera | released |
 | *Leptidea sinapis* | Pieridae | Lepidoptera | released |
 | *Limenitis camilla* | Nymphalidae | Lepidoptera | released |
+| *Luperina testacea* | Noctuidae | Lepidoptera | released |
 | *Lycaena phlaeas* | Lycaenidae | Lepidoptera | released |
 | *Lymantria monacha* | Erebidae | Lepidoptera | released |
 | *Lysandra bellargus* | Lycaenidae | Lepidoptera | released |
 | *Lysandra coridon* | Lycaenidae | Lepidoptera | released |
+| *Macaria notata* | Geometridae | Lepidoptera | released |
 | *Mamestra brassicae* | Noctuidae | Lepidoptera | released |
 | *Maniola jurtina* | Nymphalidae | Lepidoptera | released |
 | *Marasmarcha lunaedactyla* | Pterophoridae | Lepidoptera | released |
@@ -126,6 +133,7 @@
 | *Ypsolopha scabrella* | Ypsolophidae | Lepidoptera | released |
 | *Zeuzera pyrina* | Cossidae | Lepidoptera | released |
 | *Zygaena filipendulae* | Zygaenidae | Lepidoptera | released |
+| *Catocala fraxini* | Erebidae | Lepidoptera | curated |
 | *Abrostola tripartita* | Noctuidae | Lepidoptera | curated |
 | *Acleris emargana* | Tortricidae | Lepidoptera | curated |
 | *Acleris sparsana* | Tortricidae | Lepidoptera | curated |
@@ -136,12 +144,14 @@
 | *Agriphila tristella* | Crambidae | Lepidoptera | curated |
 | *Agrochola circellaris* | Noctuidae | Lepidoptera | curated |
 | *Agrochola macilenta* | Noctuidae | Lepidoptera | curated |
+| *Allophyes oxyacanthae* | Noctuidae | Lepidoptera | curated |
 | *Amphipyra berbera* | Noctuidae | Lepidoptera | curated |
 | *Amphipyra tragopoginis* | Noctuidae | Lepidoptera | curated |
 | *Anthocharis cardamines* | Pieridae | Lepidoptera | curated |
 | *Apamea monoglypha* | Noctuidae | Lepidoptera | curated |
 | *Aplocera efformata* | Geometridae | Lepidoptera | curated |
 | *Aporia crataegi* | Pieridae | Lepidoptera | curated |
+| *Apotomis betuletana* | Tortricidae | Lepidoptera | curated |
 | *Apotomis turbidana* | Tortricidae | Lepidoptera | curated |
 | *Aricia agestis* | Lycaenidae | Lepidoptera | curated |
 | *Aricia artaxerxes* | Lycaenidae | Lepidoptera | curated |
@@ -157,6 +167,7 @@
 | *Campaea margaritaria* | Geometridae | Lepidoptera | curated |
 | *Carcina quercana* | Peleopodidae | Lepidoptera | curated |
 | *Celastrina argiolus* | Lycaenidae | Lepidoptera | curated |
+| *Chloroclysta siterata* | Geometridae | Lepidoptera | curated |
 | *Chrysoteuchia culmella* | Crambidae | Lepidoptera | curated |
 | *Clostera curtula* | Notodontidae | Lepidoptera | curated |
 | *Colias croceus* | Pieridae | Lepidoptera | curated |
@@ -166,6 +177,8 @@
 | *Cyaniris semiargus* | Lycaenidae | Lepidoptera | curated |
 | *Cydia splendana* | Tortricidae | Lepidoptera | curated |
 | *Deilephila porcellus* | Sphingidae | Lepidoptera | curated |
+| *Diachrysia chrysitis* | Noctuidae | Lepidoptera | curated |
+| *Diarsia rubi* | Noctuidae | Lepidoptera | curated |
 | *Dryobotodes eremita* | Noctuidae | Lepidoptera | curated |
 | *Eilema depressum* | Erebidae | Lepidoptera | curated |
 | *Emmelina monodactyla* | Pterophoridae | Lepidoptera | curated |
@@ -184,6 +197,7 @@
 | *Furcula furcula* | Notodontidae | Lepidoptera | curated |
 | *Glaucopsyche alexis* | Lycaenidae | Lepidoptera | curated |
 | *Griposia aprilina* | Noctuidae | Lepidoptera | curated |
+| *Gymnoscelis rufifasciata* | Geometridae | Lepidoptera | curated |
 | *Habrosyne pyritoides* | Drepanidae | Lepidoptera | curated |
 | *Hecatera dysodea* | Noctuidae | Lepidoptera | curated |
 | *Hedya salicella* | Tortricidae | Lepidoptera | curated |
@@ -195,6 +209,7 @@
 | *Hypena proboscidalis* | Erebidae | Lepidoptera | curated |
 | *Idaea aversata* | Geometridae | Lepidoptera | curated |
 | *Laothoe populi* | Sphingidae | Lepidoptera | curated |
+| *Lasiommata megera* | Nymphalidae | Lepidoptera | curated |
 | *Laspeyria flexula* | Erebidae | Lepidoptera | curated |
 | *Leptidea sinapis* | Pieridae | Lepidoptera | curated |
 | *Limenitis camilla* | Nymphalidae | Lepidoptera | curated |
@@ -212,6 +227,7 @@
 | *Mellicta athalia* | Nymphalidae | Lepidoptera | curated |
 | *Mesoligia furuncula* | Noctuidae | Lepidoptera | curated |
 | *Mimas tiliae* | Sphingidae | Lepidoptera | curated |
+| *Mythimna albipuncta* | Noctuidae | Lepidoptera | curated |
 | *Mythimna ferrago* | Noctuidae | Lepidoptera | curated |
 | *Mythimna impura* | Noctuidae | Lepidoptera | curated |
 | *Noctua fimbriata* | Noctuidae | Lepidoptera | curated |
@@ -225,6 +241,7 @@
 | *Ochlodes sylvanus* | Hesperiidae | Lepidoptera | curated |
 | *Ochropleura plecta* | Noctuidae | Lepidoptera | curated |
 | *Omphaloscelis lunosa* | Noctuidae | Lepidoptera | curated |
+| *Opisthograptis luteolata* | Geometridae | Lepidoptera | curated |
 | *Orgyia antiqua* | Erebidae | Lepidoptera | curated |
 | *Pammene fasciana* | Tortricidae | Lepidoptera | curated |
 | *Papilio machaon* | Papilionidae | Lepidoptera | curated |
@@ -240,6 +257,7 @@
 | *Pieris napi* | Pieridae | Lepidoptera | curated |
 | *Pieris rapae* | Pieridae | Lepidoptera | curated |
 | *Plebejus argus* | Lycaenidae | Lepidoptera | curated |
+| *Plutella xylostella* | Plutellidae | Lepidoptera | curated |
 | *Ptilodon capucinus* | Notodontidae | Lepidoptera | curated |
 | *Pyrgus malvae* | Hesperiidae | Lepidoptera | curated |
 | *Schrankia costaestrigalis* | Erebidae | Lepidoptera | curated |
@@ -254,6 +272,7 @@
 | *Tinea trinotella* | Tineidae | Lepidoptera | curated |
 | *Vanessa atalanta* | Nymphalidae | Lepidoptera | curated |
 | *Vanessa cardui* | Nymphalidae | Lepidoptera | curated |
+| *Watsonalla binaria* | Drepanidae | Lepidoptera | curated |
 | *Xestia c-nigrum* | Noctuidae | Lepidoptera | curated |
 | *Xestia xanthographa* | Noctuidae | Lepidoptera | curated |
 | *Ypsolopha scabrella* | Ypsolophidae | Lepidoptera | curated |
@@ -267,6 +286,7 @@
 | *Agonopterix arenella* | Depressariidae | Lepidoptera | draft |
 | *Agonopterix subpropinquella* | Depressariidae | Lepidoptera | draft |
 | *Agriopis aurantiaria* | Geometridae | Lepidoptera | draft |
+| *Agriopis marginaria* | Geometridae | Lepidoptera | draft |
 | *Agriphila tristella* | Crambidae | Lepidoptera | draft |
 | *Agrochola circellaris* | Noctuidae | Lepidoptera | draft |
 | *Agrochola macilenta* | Noctuidae | Lepidoptera | draft |
@@ -276,6 +296,7 @@
 | *Apamea monoglypha* | Noctuidae | Lepidoptera | draft |
 | *Aplocera efformata* | Geometridae | Lepidoptera | draft |
 | *Aporia crataegi* | Pieridae | Lepidoptera | draft |
+| *Aporophyla lueneburgensis* | Noctuidae | Lepidoptera | draft |
 | *Apotomis betuletana* | Tortricidae | Lepidoptera | draft |
 | *Apotomis turbidana* | Tortricidae | Lepidoptera | draft |
 | *Aricia agestis* | Lycaenidae | Lepidoptera | draft |
@@ -291,7 +312,9 @@
 | *Calamotropha paludella* | Crambidae | Lepidoptera | draft |
 | *Campaea margaritaria* | Geometridae | Lepidoptera | draft |
 | *Carcina quercana* | Peleopodidae | Lepidoptera | draft |
+| *Catocala fraxini* | Erebidae | Lepidoptera | draft |
 | *Celastrina argiolus* | Lycaenidae | Lepidoptera | draft |
+| *Chloroclysta siterata* | Geometridae | Lepidoptera | draft |
 | *Chrysoteuchia culmella* | Crambidae | Lepidoptera | draft |
 | *Clostera curtula* | Notodontidae | Lepidoptera | draft |
 | *Colias croceus* | Pieridae | Lepidoptera | draft |
@@ -301,12 +324,15 @@
 | *Cyaniris semiargus* | Lycaenidae | Lepidoptera | draft |
 | *Cydia splendana* | Tortricidae | Lepidoptera | draft |
 | *Deilephila porcellus* | Sphingidae | Lepidoptera | draft |
+| *Diachrysia chrysitis* | Noctuidae | Lepidoptera | draft |
+| *Diarsia rubi* | Noctuidae | Lepidoptera | draft |
 | *Dryobotodes eremita* | Noctuidae | Lepidoptera | draft |
 | *Eilema depressum* | Erebidae | Lepidoptera | draft |
 | *Emmelina monodactyla* | Pterophoridae | Lepidoptera | draft |
 | *Endotricha flammealis* | Pyralidae | Lepidoptera | draft |
 | *Ennomos fuscantarius* | Geometridae | Lepidoptera | draft |
 | *Ennomos quercinarius* | Geometridae | Lepidoptera | draft |
+| *Epinotia nisella* | Tortricidae | Lepidoptera | draft |
 | *Erannis defoliaria* | Geometridae | Lepidoptera | draft |
 | *Erebia aethiops* | Nymphalidae | Lepidoptera | draft |
 | *Erebia ligea* | Nymphalidae | Lepidoptera | draft |
@@ -325,6 +351,7 @@
 | *Hedya salicella* | Tortricidae | Lepidoptera | draft |
 | *Hemaris fuciformis* | Sphingidae | Lepidoptera | draft |
 | *Hesperia comma* | Hesperiidae | Lepidoptera | draft |
+| *Hipparchia semele* | Nymphalidae | Lepidoptera | draft |
 | *Hydraecia micacea* | Noctuidae | Lepidoptera | draft |
 | *Hydriomena furcata* | Geometridae | Lepidoptera | draft |
 | *Hylaea fasciaria* | Geometridae | Lepidoptera | draft |
@@ -349,6 +376,7 @@
 | *Melitaea cinxia* | Nymphalidae | Lepidoptera | draft |
 | *Mellicta athalia* | Nymphalidae | Lepidoptera | draft |
 | *Mesoligia furuncula* | Noctuidae | Lepidoptera | draft |
+| *Miltochrista miniata* | Erebidae | Lepidoptera | draft |
 | *Mimas tiliae* | Sphingidae | Lepidoptera | draft |
 | *Mythimna albipuncta* | Noctuidae | Lepidoptera | draft |
 | *Mythimna ferrago* | Noctuidae | Lepidoptera | draft |
@@ -364,9 +392,11 @@
 | *Ochlodes sylvanus* | Hesperiidae | Lepidoptera | draft |
 | *Ochropleura plecta* | Noctuidae | Lepidoptera | draft |
 | *Omphaloscelis lunosa* | Noctuidae | Lepidoptera | draft |
+| *Operophtera brumata* | Geometridae | Lepidoptera | draft |
 | *Opisthograptis luteolata* | Geometridae | Lepidoptera | draft |
 | *Orgyia antiqua* | Erebidae | Lepidoptera | draft |
 | *Pammene fasciana* | Tortricidae | Lepidoptera | draft |
+| *Pandemis cinnamomeana* | Tortricidae | Lepidoptera | draft |
 | *Papilio machaon* | Papilionidae | Lepidoptera | draft |
 | *Parapoynx stratiotata* | Crambidae | Lepidoptera | draft |
 | *Pararge aegeria* | Nymphalidae | Lepidoptera | draft |
@@ -375,6 +405,7 @@
 | *Pheosia gnoma* | Notodontidae | Lepidoptera | draft |
 | *Pheosia tremula* | Notodontidae | Lepidoptera | draft |
 | *Philereme vetulata* | Geometridae | Lepidoptera | draft |
+| *Phragmatobia fuliginosa* | Erebidae | Lepidoptera | draft |
 | *Pieris brassicae* | Pieridae | Lepidoptera | draft |
 | *Pieris napi* | Pieridae | Lepidoptera | draft |
 | *Pieris rapae* | Pieridae | Lepidoptera | draft |
@@ -397,15 +428,16 @@
 | *Watsonalla binaria* | Drepanidae | Lepidoptera | draft |
 | *Xestia c-nigrum* | Noctuidae | Lepidoptera | draft |
 | *Xestia xanthographa* | Noctuidae | Lepidoptera | draft |
+| *Xylocampa areola* | Noctuidae | Lepidoptera | draft |
 | *Ypsolopha scabrella* | Ypsolophidae | Lepidoptera | draft |
 | *Zeuzera pyrina* | Cossidae | Lepidoptera | draft |
 | *Zygaena filipendulae* | Zygaenidae | Lepidoptera | draft |
 
-Number of species released: 124
+Number of species released: 131
 
-Number of species curated: 133
+Number of species curated: 145
 
-Number of species with draft assemblies: 141
+Number of species with draft assemblies: 154
 
 # Lepidoptera genomic data
 
@@ -436,6 +468,7 @@ Number of species with draft assemblies: 141
 | *Acronicta rumicis* | Noctuidae | Lepidoptera | pacbio |
 | *Agapeta hamana* | Tortricidae | Lepidoptera | 10x |
 | *Agonopterix alstromeriana* | Depressariidae | Lepidoptera | 10x |
+| *Agonopterix alstromeriana* | Depressariidae | Lepidoptera | hic-arima2 |
 | *Agonopterix arenella* | Depressariidae | Lepidoptera | 10x |
 | *Agonopterix arenella* | Depressariidae | Lepidoptera | hic-arima2 |
 | *Agonopterix arenella* | Depressariidae | Lepidoptera | pacbio |
@@ -450,6 +483,7 @@ Number of species with draft assemblies: 141
 | *Agriopis aurantiaria* | Geometridae | Lepidoptera | hic-arima2 |
 | *Agriopis aurantiaria* | Geometridae | Lepidoptera | pacbio |
 | *Agriopis marginaria* | Geometridae | Lepidoptera | hic-arima2 |
+| *Agriopis marginaria* | Geometridae | Lepidoptera | pacbio |
 | *Agriphila geniculea* | Crambidae | Lepidoptera | 10x |
 | *Agriphila geniculea* | Crambidae | Lepidoptera | hic-arima2 |
 | *Agriphila geniculea* | Crambidae | Lepidoptera | pacbio |
@@ -682,6 +716,7 @@ Number of species with draft assemblies: 141
 | *Dysstroma truncata* | Geometridae | Lepidoptera | pacbio |
 | *Ecliptopera silaceata* | Geometridae | Lepidoptera | 10x |
 | *Ecliptopera silaceata* | Geometridae | Lepidoptera | pacbio |
+| *Ecliptopera silaceata* | Geometridae | Lepidoptera | hic-arima2 |
 | *Ectropis crepuscularia* | Geometridae | Lepidoptera | pacbio |
 | *Eilema complana* | Erebidae | Lepidoptera | 10x |
 | *Eilema complana* | Erebidae | Lepidoptera | hic-arima2 |
@@ -924,6 +959,7 @@ Number of species with draft assemblies: 141
 | *Mesoligia furuncula* | Noctuidae | Lepidoptera | hic-arima2 |
 | *Metalampra italica* | Oecophoridae | Lepidoptera | 10x |
 | *Micropterix aruncella* | Micropterigidae | Lepidoptera | 10x |
+| *Micropterix aruncella* | Micropterigidae | Lepidoptera | pacbio |
 | *Miltochrista miniata* | Erebidae | Lepidoptera | 10x |
 | *Miltochrista miniata* | Erebidae | Lepidoptera | pacbio |
 | *Miltochrista miniata* | Erebidae | Lepidoptera | hic-arima2 |
@@ -1248,8 +1284,8 @@ Number of species with draft assemblies: 141
 | *Zygaena filipendulae* | Zygaenidae | Lepidoptera | pacbio |
 | *Zygaena filipendulae* | Zygaenidae | Lepidoptera | hic-arima2 |
 
-Number of species with Hi-C data: 202
+Number of species with Hi-C data: 204
 
-Number of species with PacBio HiFi data: 287
+Number of species with PacBio HiFi data: 289
 
 Number of species with 10X data: 294

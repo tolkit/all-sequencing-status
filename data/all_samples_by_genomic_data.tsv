@@ -5,6 +5,7 @@ algae 	 Calliblepharis_jubata 	 genomic_data 	 urCalJuba1 	 pacbio
 algae 	 Carpodesmia_tamariscifolia 	 genomic_data 	 uoCarTama1 	 10x
 algae 	 Carpodesmia_tamariscifolia 	 genomic_data 	 uoCarTama1 	 pacbio
 algae 	 Caulacanthus_okamurae 	 genomic_data 	 urCauOkam1 	 10x
+algae 	 Ceramium_secundatum 	 genomic_data 	 urCerSecu1 	 hic-arima2
 algae 	 Ceramium_secundatum 	 genomic_data 	 urCerSecu1 	 pacbio
 algae 	 Chaetoceros_curvisetus 	 genomic_data 	 uoChaCurv1 	 pacbio
 algae 	 Chloroidium_saccharophilum 	 genomic_data 	 ucCloSacc1 	 pacbio
@@ -13,15 +14,20 @@ algae 	 Chondrus_crispus 	 genomic_data 	 urChoCris1 	 10x
 algae 	 Chondrus_crispus 	 genomic_data 	 urChoCris1 	 hic-arima2
 algae 	 Chrysotila_carterae 	 genomic_data 	 uhChrCart1 	 10x
 algae 	 Chrysotila_carterae 	 genomic_data 	 uhChrCart1 	 pacbio
+algae 	 Codium_vermilara 	 genomic_data 	 ucCodVerm1 	 hic-arima2
 algae 	 Coscinodiscus_radiatus 	 genomic_data 	 uoCosRadi1 	 hic-arima2
 algae 	 Diacronema_lutheri 	 genomic_data 	 uhDiaLuth1 	 10x
+algae 	 Diacronema_lutheri 	 genomic_data 	 uhDiaLuth1 	 hic-arima2
 algae 	 Diacronema_lutheri 	 genomic_data 	 uhDiaLuth1 	 pacbio
+algae 	 Dinobryon_sp._CCAP917_5 	 genomic_data 	 uoDinCcap2 	 hic-arima2
 algae 	 Dunaliella_primolecta 	 genomic_data 	 ucDunPrim2 	 10x
 algae 	 Dunaliella_primolecta 	 genomic_data 	 ucDunPrim2 	 hic-arima2
 algae 	 Dunaliella_primolecta 	 genomic_data 	 ucDunPrim2 	 pacbio
 algae 	 Fucus_serratus 	 genomic_data 	 uoFucSerr1 	 10x
 algae 	 Fucus_spiralis 	 genomic_data 	 uoFucSpir1 	 10x
+algae 	 Fucus_spiralis 	 genomic_data 	 uoFucSpir2 	 hic-arima2
 algae 	 Halidrys_siliquosa 	 genomic_data 	 uoHalSili1 	 10x
+algae 	 Halidrys_siliquosa 	 genomic_data 	 uoHalSili1 	 hic-arima2
 algae 	 Halidrys_siliquosa 	 genomic_data 	 uoHalSili1 	 pacbio
 algae 	 Hydrodictyon_reticulatum 	 genomic_data 	 ucHydReti1 	 10x
 algae 	 Hydrodictyon_reticulatum 	 genomic_data 	 ucHydReti1 	 hic-arima2
@@ -31,22 +37,27 @@ algae 	 Melanothamnus_harveyi 	 genomic_data 	 urMelHarv1 	 10x
 algae 	 Metacallophyllis_laciniata 	 genomic_data 	 urMetLaci1 	 10x
 algae 	 Metacallophyllis_laciniata 	 genomic_data 	 urMetLaci1 	 pacbio
 algae 	 Microglena_redcarensis 	 genomic_data 	 ucMicRedc1 	 hic-arima2
+algae 	 Navicula_sp._CCAP1050_13 	 genomic_data 	 uoNavCcap2 	 hic-arima2
 algae 	 Osmundea_osmunda 	 genomic_data 	 urOsmOsmu2 	 10x
 algae 	 Palmaria_palmata 	 genomic_data 	 urPalPalm1 	 10x
 algae 	 Palmaria_palmata 	 genomic_data 	 urPalPalm1 	 pacbio
 algae 	 Pelvetia_canaliculata 	 genomic_data 	 uoPelCana1 	 pacbio
 algae 	 Plocamium_cartilagineum 	 genomic_data 	 urPloCart1 	 10x
+algae 	 Pseudo-nitzschia_pungens 	 genomic_data 	 uoPsePung1 	 hic-arima2
 algae 	 Pseudopediastrum_boryanum 	 genomic_data 	 ucPseBory1 	 hic-arima2
 algae 	 Pycnococcus_provasolii 	 genomic_data 	 ucPycProv1 	 hic-arima2
 algae 	 Pycnococcus_provasolii 	 genomic_data 	 ucPycProv1 	 pacbio
 algae 	 Rhodella_violacea 	 genomic_data 	 urRhoViol1 	 10x
+algae 	 Rhodella_violacea 	 genomic_data 	 urRhoViol1 	 hic-arima2
 algae 	 Rhodomonas_baltica 	 genomic_data 	 uyRhoBalt1 	 hic-arima2
 algae 	 Rhodomonas_baltica 	 genomic_data 	 uyRhoBalt1 	 pacbio
 algae 	 Saccharina_latissima 	 genomic_data 	 uoSacLati1 	 10x
 algae 	 Tetraselmis_chuii 	 genomic_data 	 ucTetChui1 	 10x
 algae 	 Tetraselmis_chuii 	 genomic_data 	 ucTetChui1 	 hic-arima2
 algae 	 Tetraselmis_chuii 	 genomic_data 	 ucTetChui1 	 pacbio
+algae 	 Thalassiosira_rotula 	 genomic_data 	 uoThaRotu1 	 hic-arima2
 algae 	 Ulva_intestinalis 	 genomic_data 	 ucUlvInts1 	 10x
+algae 	 Ulva_intestinalis 	 genomic_data 	 ucUlvInts3 	 hic-arima2
 algae 	 Ulva_lactuca 	 genomic_data 	 ucUlvLact1 	 10x
 algae 	 Ulva_lactuca 	 genomic_data 	 ucUlvLact2 	 10x
 algae 	 Ulva_laetevirens 	 genomic_data 	 ucUlvLaet1 	 10x
@@ -319,7 +330,6 @@ chordates 	 Ascidia_mentula 	 genomic_data 	 kaAscMent1 	 pacbio
 chordates 	 Ascidiella_aspersa 	 genomic_data 	 kaAscAspe2 	 hic-arima2
 chordates 	 Clavelina_lepadiformis 	 genomic_data 	 kaClaLepa3 	 hic-arima2
 chordates 	 Clavelina_lepadiformis 	 genomic_data 	 kaClaLepa8 	 10x
-chordates 	 Clavelina_lepadiformis 	 genomic_data 	 kaClaLepa8 	 pacbio
 chordates 	 Corella_eumyota 	 genomic_data 	 kaCorEumy4 	 hic-arima2
 chordates 	 Dendrodoa_grossularia 	 genomic_data 	 kaDenGros1 	 10x
 chordates 	 Dendrodoa_grossularia 	 genomic_data 	 kaDenGros1 	 hic-arima2
@@ -389,7 +399,6 @@ dicots 	 Buxus_sempervirens 	 genomic_data 	 drBuxSemp1 	 pacbio
 dicots 	 Cakile_maritima 	 genomic_data 	 ddCakMari1 	 hic-arima2
 dicots 	 Cakile_maritima 	 genomic_data 	 ddCakMari1 	 pacbio
 dicots 	 Calystegia_sepium 	 genomic_data 	 daCalSepi1 	 10x
-dicots 	 Calystegia_sepium 	 genomic_data 	 daCalSepi1 	 pacbio
 dicots 	 Campanula_rotundifolia 	 genomic_data 	 daCamRotu1 	 hic-arima2
 dicots 	 Carpinus_betulus 	 genomic_data 	 dhCarBetu1 	 pacbio
 dicots 	 Cerastium_fontanum 	 genomic_data 	 dcCerFont2 	 hic-arima2
@@ -421,6 +430,7 @@ dicots 	 Cornus_suecica 	 genomic_data 	 drCorSuec1 	 hic-arima2
 dicots 	 Cornus_suecica 	 genomic_data 	 drCorSuec1 	 pacbio
 dicots 	 Corylus_avellana 	 genomic_data 	 dhCorAvel1 	 hic-arima2
 dicots 	 Crataegus_laevigata 	 genomic_data 	 drCraLaev2 	 pacbio
+dicots 	 Crataegus_monogyna 	 genomic_data 	 drCraMono1 	 hic-arima2
 dicots 	 Crataegus_monogyna 	 genomic_data 	 drCraMono1 	 pacbio
 dicots 	 Crithmum_maritimum 	 genomic_data 	 drCriMari1 	 10x
 dicots 	 Crithmum_maritimum 	 genomic_data 	 drCriMari1 	 hic-arima2
@@ -647,6 +657,7 @@ dicots 	 Persicaria_maculosa 	 genomic_data 	 dcPerMacu1 	 10x
 dicots 	 Persicaria_maculosa 	 genomic_data 	 dcPerMacu1 	 hic-arima2
 dicots 	 Persicaria_maculosa 	 genomic_data 	 dcPerMacu1 	 pacbio
 dicots 	 Phyteuma_spicatum 	 genomic_data 	 daPhySpic1 	 hic-arima2
+dicots 	 Plantago_coronopus 	 genomic_data 	 daPlaCoro1 	 hic-arima2
 dicots 	 Plantago_coronopus 	 genomic_data 	 daPlaCoro1 	 pacbio
 dicots 	 Plantago_lanceolata 	 genomic_data 	 daPlaLanc1 	 hic-arima2
 dicots 	 Plantago_lanceolata 	 genomic_data 	 daPlaLanc3 	 pacbio
@@ -659,10 +670,10 @@ dicots 	 Populus_tremula 	 genomic_data 	 ddPopTrem1 	 pacbio
 dicots 	 Potentilla_anserina 	 genomic_data 	 drPotAnse1 	 10x
 dicots 	 Potentilla_anserina 	 genomic_data 	 drPotAnse1 	 hic-arima2
 dicots 	 Potentilla_anserina 	 genomic_data 	 drPotAnse1 	 pacbio
+dicots 	 Prunus_domestica 	 genomic_data 	 drPruDome1 	 hic-arima2
 dicots 	 Pulicaria_dysenterica 	 genomic_data 	 daPulDyse1 	 10x
 dicots 	 Pulicaria_dysenterica 	 genomic_data 	 daPulDyse1 	 hic-arima2
 dicots 	 Pulicaria_dysenterica 	 genomic_data 	 daPulDyse1 	 pacbio
-dicots 	 Pyrus_cordata 	 genomic_data 	 drPyrCord2 	 hic-arima2
 dicots 	 Quercus_robur 	 genomic_data 	 dhQueRobu3 	 10x
 dicots 	 Quercus_robur 	 genomic_data 	 dhQueRobu3 	 hic-arima2
 dicots 	 Quercus_robur 	 genomic_data 	 dhQueRobu3 	 pacbio
@@ -683,19 +694,22 @@ dicots 	 Rumex_sanguineus 	 genomic_data 	 dcRumSang1 	 10x
 dicots 	 Rumex_sanguineus 	 genomic_data 	 dcRumSang1 	 pacbio
 dicots 	 Salix_herbacea 	 genomic_data 	 ddSalHerb1 	 hic-arima2
 dicots 	 Salix_reticulata 	 genomic_data 	 ddSalReti1 	 hic-arima2
+dicots 	 Salvia_verbenaca 	 genomic_data 	 daSalVerb1 	 hic-arima2
 dicots 	 Salvia_verbenaca 	 genomic_data 	 daSalVerb1 	 pacbio
 dicots 	 Sambucus_nigra 	 genomic_data 	 daSamNigr1 	 10x
 dicots 	 Sambucus_nigra 	 genomic_data 	 daSamNigr1 	 pacbio
 dicots 	 Sarracenia_purpurea 	 genomic_data 	 ddSarPurp1 	 hic-arima2
 dicots 	 Scabiosa_columbaria 	 genomic_data 	 daScaColu1 	 hic-arima2
-dicots 	 Scrophularia_nodosa 	 genomic_data 	 daScrNodo1 	 pacbio
+dicots 	 Scrophularia_auriculata 	 genomic_data 	 daScrAuri1 	 pacbio
 dicots 	 Scutellaria_galericulata 	 genomic_data 	 daScuGale1 	 hic-arima2
 dicots 	 Scutellaria_galericulata 	 genomic_data 	 daScuGale1 	 pacbio
 dicots 	 Scutellaria_minor 	 genomic_data 	 daScuMino1 	 pacbio
 dicots 	 Senecio_vulgaris 	 genomic_data 	 daSenVulg1 	 pacbio
+dicots 	 Sherardia_arvensis 	 genomic_data 	 daSheArve1 	 hic-arima2
 dicots 	 Sherardia_arvensis 	 genomic_data 	 daSheArve1 	 pacbio
 dicots 	 Silene_acaulis 	 genomic_data 	 dcSilAcau1 	 hic-arima2
 dicots 	 Silene_acaulis 	 genomic_data 	 dcSilAcau1 	 pacbio
+dicots 	 Silene_dioica 	 genomic_data 	 dcSilDioi1 	 hic-arima2
 dicots 	 Silene_dioica 	 genomic_data 	 dcSilDioi1 	 pacbio
 dicots 	 Silene_latifolia 	 genomic_data 	 dcSilLati1 	 pacbio
 dicots 	 Smyrnium_perfoliatum 	 genomic_data 	 drSmyPerf1 	 pacbio
@@ -744,6 +758,7 @@ dicots 	 Veronica_chamaedrys 	 genomic_data 	 daVerCham1 	 pacbio
 dicots 	 Veronica_hederifolia 	 genomic_data 	 daVerHede4 	 pacbio
 dicots 	 Veronica_spicata 	 genomic_data 	 daVerSpic1 	 hic-arima2
 dicots 	 Veronica_spicata 	 genomic_data 	 daVerSpic1 	 pacbio
+dicots 	 Viburnum_lantana 	 genomic_data 	 daVibLant1 	 hic-arima2
 dicots 	 Viburnum_lantana 	 genomic_data 	 daVibLant1 	 pacbio
 dicots 	 Vicia_cracca 	 genomic_data 	 drVicCrac1 	 10x
 dicots 	 Vicia_cracca 	 genomic_data 	 drVicCrac1 	 hic-arima2
@@ -879,6 +894,7 @@ insects 	 Agabus_bipustulatus 	 genomic_data 	 icAgaBipu1 	 hic-arima2
 insects 	 Agapeta_hamana 	 genomic_data 	 ilAgaHama1 	 10x
 insects 	 Agapetus_fuscipes 	 genomic_data 	 iiAgaFusc4 	 hic-arima2
 insects 	 Agonopterix_alstromeriana 	 genomic_data 	 ilAgoAlst1 	 10x
+insects 	 Agonopterix_alstromeriana 	 genomic_data 	 ilAgoAlst2 	 hic-arima2
 insects 	 Agonopterix_arenella 	 genomic_data 	 ilAgoAren1 	 10x
 insects 	 Agonopterix_arenella 	 genomic_data 	 ilAgoAren1 	 hic-arima2
 insects 	 Agonopterix_arenella 	 genomic_data 	 ilAgoAren1 	 pacbio
@@ -889,11 +905,13 @@ insects 	 Agonopterix_ocellana 	 genomic_data 	 ilAgoOcel1 	 pacbio
 insects 	 Agonopterix_subpropinquella 	 genomic_data 	 ilAgoSubp1 	 10x
 insects 	 Agonopterix_subpropinquella 	 genomic_data 	 ilAgoSubp1 	 hic-arima2
 insects 	 Agonopterix_subpropinquella 	 genomic_data 	 ilAgoSubp1 	 pacbio
+insects 	 Agonum_fuliginosum 	 genomic_data 	 icAgoFuli1 	 pacbio
 insects 	 Agrilus_sulcicollis 	 genomic_data 	 icAgrSulc1 	 hic-arima2
 insects 	 Agriopis_aurantiaria 	 genomic_data 	 ilAgrAura1 	 10x
 insects 	 Agriopis_aurantiaria 	 genomic_data 	 ilAgrAura1 	 hic-arima2
 insects 	 Agriopis_aurantiaria 	 genomic_data 	 ilAgrAura1 	 pacbio
 insects 	 Agriopis_marginaria 	 genomic_data 	 ilAgrMarg1 	 hic-arima2
+insects 	 Agriopis_marginaria 	 genomic_data 	 ilAgrMarg1 	 pacbio
 insects 	 Agriotes_acuminatus 	 genomic_data 	 icAgrAcum2 	 hic-arima2
 insects 	 Agriotes_lineatus 	 genomic_data 	 icAgrLine1 	 hic-arima2
 insects 	 Agriotes_lineatus 	 genomic_data 	 icAgrLine1 	 pacbio
@@ -1245,6 +1263,7 @@ insects 	 Cheilosia_illustrata 	 genomic_data 	 idCheIllu6 	 pacbio
 insects 	 Cheilosia_impressa 	 genomic_data 	 idCheImpr3 	 hic-arima2
 insects 	 Cheilosia_pagana 	 genomic_data 	 idChePaga1 	 10x
 insects 	 Cheilosia_pagana 	 genomic_data 	 idChePaga1 	 pacbio
+insects 	 Cheilosia_pagana 	 genomic_data 	 idChePaga2 	 hic-arima2
 insects 	 Cheilosia_proxima 	 genomic_data 	 idCheProx6 	 hic-arima2
 insects 	 Cheilosia_scutellata 	 genomic_data 	 idCheScut6 	 hic-arima2
 insects 	 Cheilosia_soror 	 genomic_data 	 idCheSoro1 	 10x
@@ -1270,6 +1289,7 @@ insects 	 Chloroperla_tripunctata 	 genomic_data 	 ipChlTrip2 	 hic-arima2
 insects 	 Choerades_marginata 	 genomic_data 	 idChoMarg1 	 10x
 insects 	 Choerades_marginata 	 genomic_data 	 idChoMarg1 	 hic-arima2
 insects 	 Choerades_marginata 	 genomic_data 	 idChoMarg1 	 pacbio
+insects 	 Choerades_marginata 	 genomic_data 	 idChoMarg2 	 hic-arima2
 insects 	 Chorisops_tibialis 	 genomic_data 	 idChoTibi1 	 hic-arima2
 insects 	 Chorthippus_albomarginatus 	 genomic_data 	 iqChoAlbo1 	 10x
 insects 	 Chorthippus_albomarginatus 	 genomic_data 	 iqChoAlbo1 	 hic-arima2
@@ -1307,6 +1327,7 @@ insects 	 Chrysotoxum_verralli 	 genomic_data 	 idChrVerr1 	 pacbio
 insects 	 Cionus_hortulanus 	 genomic_data 	 icCioHort2 	 hic-arima2
 insects 	 Cistogaster_globosa 	 genomic_data 	 idCisGlob1 	 10x
 insects 	 Cistogaster_globosa 	 genomic_data 	 idCisGlob1 	 pacbio
+insects 	 Cistogaster_globosa 	 genomic_data 	 idCisGlob2 	 hic-arima2
 insects 	 Cixius_nervosus 	 genomic_data 	 ihCixNerv1 	 10x
 insects 	 Cixius_nervosus 	 genomic_data 	 ihCixNerv1 	 pacbio
 insects 	 Cleigastra_apicalis 	 genomic_data 	 idCleApic1 	 hic-arima2
@@ -1337,6 +1358,7 @@ insects 	 Cochylimorpha_straminea 	 genomic_data 	 ilCocStra1 	 pacbio
 insects 	 Coenagrion_puella 	 genomic_data 	 ioCoePuel1 	 10x
 insects 	 Coenagrion_puella 	 genomic_data 	 ioCoePuel1 	 hic-arima2
 insects 	 Coenagrion_puella 	 genomic_data 	 ioCoePuel1 	 pacbio
+insects 	 Coenagrion_puella 	 genomic_data 	 ioCoePuel3 	 hic-arima2
 insects 	 Coenonympha_pamphilus 	 genomic_data 	 ilCoePamp1 	 hic-qiagen
 insects 	 Coenonympha_pamphilus 	 genomic_data 	 ilCoePamp2 	 10x
 insects 	 Coenonympha_tullia 	 genomic_data 	 ilCoeTull2 	 10x
@@ -1471,6 +1493,7 @@ insects 	 Ecdyonurus_torrentis 	 genomic_data 	 ieEcdTorr1 	 pacbio
 insects 	 Ecdyonurus_venosus 	 genomic_data 	 ieEcdVeno1 	 hic-arima2
 insects 	 Ecliptopera_silaceata 	 genomic_data 	 ilEclSila1 	 10x
 insects 	 Ecliptopera_silaceata 	 genomic_data 	 ilEclSila1 	 pacbio
+insects 	 Ecliptopera_silaceata 	 genomic_data 	 ilEclSila2 	 hic-arima2
 insects 	 Ectemnius_continuus 	 genomic_data 	 iyEctCont1 	 10x
 insects 	 Ectemnius_continuus 	 genomic_data 	 iyEctCont1 	 hic-arima
 insects 	 Ectemnius_continuus 	 genomic_data 	 iyEctCont1 	 pacbio
@@ -1506,6 +1529,7 @@ insects 	 Empis_livida 	 genomic_data 	 idEmpLivi1 	 pacbio
 insects 	 Empis_tessellata 	 genomic_data 	 idEmpTess1 	 10x
 insects 	 Enallagma_cyathigerum 	 genomic_data 	 ioEnaCyat1 	 10x
 insects 	 Enallagma_cyathigerum 	 genomic_data 	 ioEnaCyat1 	 pacbio
+insects 	 Enallagma_cyathigerum 	 genomic_data 	 ioEnaCyat2 	 hic-arima2
 insects 	 Endotricha_flammealis 	 genomic_data 	 ilEndFlam1 	 10x
 insects 	 Endotricha_flammealis 	 genomic_data 	 ilEndFlam1 	 hic-arima
 insects 	 Endotricha_flammealis 	 genomic_data 	 ilEndFlam1 	 pacbio
@@ -1859,6 +1883,7 @@ insects 	 Lasioglossum_morio 	 genomic_data 	 iyLasMori1 	 pacbio
 insects 	 Lasioglossum_morio 	 genomic_data 	 iyLasMori2 	 hic-arima2
 insects 	 Lasioglossum_pauxillum 	 genomic_data 	 iyLasPaux1 	 hic-arima2
 insects 	 Lasioglossum_pauxillum 	 genomic_data 	 iyLasPaux1 	 pacbio
+insects 	 Lasioglossum_pauxillum 	 genomic_data 	 iyLasPaux2 	 hic-arima2
 insects 	 Lasiommata_megera 	 genomic_data 	 ilLasMege1 	 10x
 insects 	 Lasiommata_megera 	 genomic_data 	 ilLasMege1 	 pacbio
 insects 	 Lasiommata_megera 	 genomic_data 	 ilLasMege3 	 hic-arima2
@@ -1976,6 +2001,7 @@ insects 	 Megachile_ligniseca 	 genomic_data 	 iyMegLign1 	 pacbio
 insects 	 Megachile_ligniseca 	 genomic_data 	 iyMegLign2 	 hic-arima2
 insects 	 Megachile_willughbiella 	 genomic_data 	 iyMegWill1 	 10x
 insects 	 Megachile_willughbiella 	 genomic_data 	 iyMegWill1 	 pacbio
+insects 	 Megachile_willughbiella 	 genomic_data 	 iyMegWill2 	 hic-arima2
 insects 	 Meganola_albula 	 genomic_data 	 ilMegAlbu1 	 10x
 insects 	 Meganola_albula 	 genomic_data 	 ilMegAlbu1 	 pacbio
 insects 	 Meganola_albula 	 genomic_data 	 ilMegAlbu2 	 hic-arima2
@@ -2026,6 +2052,7 @@ insects 	 Mesoligia_furuncula 	 genomic_data 	 ilMesFuru1 	 pacbio
 insects 	 Mesoligia_furuncula 	 genomic_data 	 ilMesFuru2 	 hic-arima2
 insects 	 Metalampra_italica 	 genomic_data 	 ilMetItal1 	 10x
 insects 	 Micropterix_aruncella 	 genomic_data 	 ilMicArun1 	 10x
+insects 	 Micropterix_aruncella 	 genomic_data 	 ilMicArun2 	 pacbio
 insects 	 Milichia_ludens 	 genomic_data 	 idMilLude2 	 hic-arima2
 insects 	 Miltochrista_miniata 	 genomic_data 	 ilMilMini1 	 10x
 insects 	 Miltochrista_miniata 	 genomic_data 	 ilMilMini1 	 pacbio
@@ -2391,6 +2418,7 @@ insects 	 Protodeltote_pygarga 	 genomic_data 	 ilProPyga1 	 10x
 insects 	 Protodeltote_pygarga 	 genomic_data 	 ilProPyga1 	 hic-arima2
 insects 	 Protodeltote_pygarga 	 genomic_data 	 ilProPyga1 	 pacbio
 insects 	 Pseudargyrotoza_conwagana 	 genomic_data 	 ilPseConw1 	 10x
+insects 	 Pseudococcus_viburni 	 genomic_data 	 ihPseVibu2 	 hic-arima2
 insects 	 Pseudoips_prasinana 	 genomic_data 	 ilPsePras1 	 10x
 insects 	 Pseudoips_prasinana 	 genomic_data 	 ilPsePras1 	 pacbio
 insects 	 Pseudoprotapion_astragali 	 genomic_data 	 icPseAstr2 	 hic-arima2
@@ -2434,6 +2462,7 @@ insects 	 Recurvaria_leucatella 	 genomic_data 	 ilRecLeuc1 	 10x
 insects 	 Recurvaria_leucatella 	 genomic_data 	 ilRecLeuc1 	 hic-qiagen
 insects 	 Recurvaria_leucatella 	 genomic_data 	 ilRecLeuc1 	 pacbio
 insects 	 Rhabdomiris_striatellus 	 genomic_data 	 ihRhaStri1 	 hic-arima2
+insects 	 Rhabdomiris_striatellus 	 genomic_data 	 ihRhaStri1 	 pacbio
 insects 	 Rhagio_lineola 	 genomic_data 	 idRhaLine1 	 10x
 insects 	 Rhagio_lineola 	 genomic_data 	 idRhaLine1 	 hic-arima2
 insects 	 Rhagio_scolopaceus 	 genomic_data 	 idRhaScol1 	 10x
@@ -2444,10 +2473,12 @@ insects 	 Rhagio_tringarius 	 genomic_data 	 idRhaTrin1 	 pacbio
 insects 	 Rhagonycha_fulva 	 genomic_data 	 icRhaFulv1 	 10x
 insects 	 Rhagonycha_fulva 	 genomic_data 	 icRhaFulv1 	 hic-arima2
 insects 	 Rhagonycha_fulva 	 genomic_data 	 icRhaFulv1 	 pacbio
+insects 	 Rhagonycha_fulva 	 genomic_data 	 icRhaFulv4 	 hic-arima2
 insects 	 Rhaphigaster_nebulosa 	 genomic_data 	 ihRhaNebu1 	 10x
 insects 	 Rhaphigaster_nebulosa 	 genomic_data 	 ihRhaNebu1 	 hic-arima2
 insects 	 Rhingia_campestris 	 genomic_data 	 idRhiCamp1 	 10x
 insects 	 Rhingia_campestris 	 genomic_data 	 idRhiCamp1 	 pacbio
+insects 	 Rhingia_campestris 	 genomic_data 	 idRhiCamp2 	 hic-arima2
 insects 	 Rhingia_rostrata 	 genomic_data 	 idRhiRost1 	 10x
 insects 	 Rhingia_rostrata 	 genomic_data 	 idRhiRost2 	 hic-arima2
 insects 	 Rhinocyllus_conicus 	 genomic_data 	 icRhiConi1 	 10x
@@ -2543,6 +2574,7 @@ insects 	 Shargacucullia_verbasci 	 genomic_data 	 ilShaVerb1 	 10x
 insects 	 Shargacucullia_verbasci 	 genomic_data 	 ilShaVerb1 	 pacbio
 insects 	 Sialis_lutaria 	 genomic_data 	 ikSiaLuta1 	 hic-arima2
 insects 	 Sialis_lutaria 	 genomic_data 	 ikSiaLuta1 	 pacbio
+insects 	 Sialis_lutaria 	 genomic_data 	 ikSiaLuta2 	 hic-arima2
 insects 	 Sicus_ferrugineus 	 genomic_data 	 idSicFerr1 	 10x
 insects 	 Sicus_ferrugineus 	 genomic_data 	 idSicFerr1 	 hic-arima2
 insects 	 Sicus_ferrugineus 	 genomic_data 	 idSicFerr1 	 pacbio
@@ -2565,6 +2597,7 @@ insects 	 Sphecodes_ephippius 	 genomic_data 	 iySphEphi1 	 10x
 insects 	 Sphecodes_ephippius 	 genomic_data 	 iySphEphi1 	 pacbio
 insects 	 Sphecodes_hyalinatus 	 genomic_data 	 iySphHyal1 	 10x
 insects 	 Sphecodes_hyalinatus 	 genomic_data 	 iySphHyal1 	 pacbio
+insects 	 Sphecodes_hyalinatus 	 genomic_data 	 iySphHyal2 	 hic-arima2
 insects 	 Sphecodes_monilicornis 	 genomic_data 	 iySphMoni1 	 10x
 insects 	 Sphecodes_monilicornis 	 genomic_data 	 iySphMoni1 	 hic-arima2
 insects 	 Sphecodes_monilicornis 	 genomic_data 	 iySphMoni1 	 pacbio
@@ -2712,6 +2745,7 @@ insects 	 Velia_caprai 	 genomic_data 	 ihVelCapr1 	 hic-arima2
 insects 	 Vespa_crabro 	 genomic_data 	 iyVesCrab1 	 10x
 insects 	 Vespa_crabro 	 genomic_data 	 iyVesCrab1 	 hic-arima2
 insects 	 Vespa_crabro 	 genomic_data 	 iyVesCrab1 	 pacbio
+insects 	 Vespa_crabro 	 genomic_data 	 iyVesCrab2 	 hic-arima2
 insects 	 Vespa_velutina 	 genomic_data 	 iVesVel1 	 10x
 insects 	 Vespa_velutina 	 genomic_data 	 iVesVel2 	 10x
 insects 	 Vespa_velutina 	 genomic_data 	 iVesVel2 	 hic-dnazoo
@@ -3063,6 +3097,7 @@ monocots 	 Typha_latifolia 	 genomic_data 	 lpTypLati1 	 pacbio
 monocots 	 Zostera_marina 	 genomic_data 	 laZosMari1 	 hic-arima2
 nematodes 	 Dioctophyme_renale 	 genomic_data 	 neDioRenaDren_gen8731295 	 pacbio
 nematodes 	 Heligmosomoides_polygyrus 	 genomic_data 	 ngHelPoly3 	 hic-arima2
+non-vascular-plants 	 Conocephalum_conicum 	 genomic_data 	 cmConConi3 	 hic-arima2
 non-vascular-plants 	 Hylocomiadelphus_triquetrus 	 genomic_data 	 cbHylTriq10 	 hic-arima2
 non-vascular-plants 	 Hylocomiadelphus_triquetrus 	 genomic_data 	 cbHylTriq8 	 10x
 non-vascular-plants 	 Hylocomiadelphus_triquetrus 	 genomic_data 	 cbHylTriq8 	 pacbio
@@ -3074,6 +3109,7 @@ non-vascular-plants 	 Lunularia_cruciata 	 genomic_data 	 cmLunCruc9 	 10x
 non-vascular-plants 	 Lunularia_cruciata 	 genomic_data 	 cmLunCruc9 	 pacbio
 non-vascular-plants 	 Neckera_pumila 	 genomic_data 	 cbNecPumi1 	 10x
 non-vascular-plants 	 Neckera_pumila 	 genomic_data 	 cbNecPumi1 	 pacbio
+non-vascular-plants 	 Polytrichum_commune 	 genomic_data 	 cbPolComm3 	 hic-arima2
 non-vascular-plants 	 Polytrichum_commune 	 genomic_data 	 cbPolComm4 	 10x
 non-vascular-plants 	 Polytrichum_commune 	 genomic_data 	 cbPolComm4 	 pacbio
 non-vascular-plants 	 Rhytidiadelphus_loreus 	 genomic_data 	 cbRhyLore1 	 10x
@@ -3090,7 +3126,6 @@ non-vascular-plants 	 Thuidium_tamariscinum 	 genomic_data 	 cbThuTama2 	 pacbio
 non-vascular-plants 	 Thuidium_tamariscinum 	 genomic_data 	 cbThuTama6 	 hic-arima2
 other-animal-phyla 	 Bugula_neritina 	 genomic_data 	 tzBugNeri1 	 10x
 other-animal-phyla 	 Bugula_neritina 	 genomic_data 	 tzBugNeri1 	 hic-arima2
-other-animal-phyla 	 Bugula_neritina 	 genomic_data 	 tzBugNeri1 	 pacbio
 other-animal-phyla 	 Bugulina_stolonifera 	 genomic_data 	 tzBugStol2 	 10x
 other-animal-phyla 	 Bugulina_stolonifera 	 genomic_data 	 tzBugStol2 	 hic-arima2
 other-animal-phyla 	 Bugulina_stolonifera 	 genomic_data 	 tzBugStol2 	 pacbio
@@ -3099,6 +3134,7 @@ other-animal-phyla 	 Cryptosula_pallasiana 	 genomic_data 	 tzCryPall5 	 10x
 other-animal-phyla 	 Cryptosula_pallasiana 	 genomic_data 	 tzCryPall5 	 hic-arima2
 other-animal-phyla 	 Cryptosula_pallasiana 	 genomic_data 	 tzCryPall5 	 pacbio
 other-animal-phyla 	 Golfingia_elongata 	 genomic_data 	 tsGolElon1 	 10x
+other-animal-phyla 	 Golfingia_elongata 	 genomic_data 	 tsGolElon1 	 hic-arima2
 other-animal-phyla 	 Lineus_longissimus 	 genomic_data 	 tnLinLong1 	 10x
 other-animal-phyla 	 Lineus_longissimus 	 genomic_data 	 tnLinLong1 	 hic-arima2
 other-animal-phyla 	 Lineus_longissimus 	 genomic_data 	 tnLinLong1 	 pacbio
@@ -3117,6 +3153,7 @@ protists 	 Eimeria_tenella 	 genomic_data 	 pEimTen1 	 hic-arima
 protists 	 Eimeria_tenella 	 genomic_data 	 pEimTen1 	 pacbio
 protists 	 Euglenaria_anabaena 	 genomic_data 	 peEugAnab1 	 hic-arima2
 protists 	 Euglenaria_anabaena 	 genomic_data 	 peEugAnab1 	 pacbio
+protists 	 Gymnodinium_sp._CCAP1117_9 	 genomic_data 	 pyGymCcap2 	 hic-arima2
 protists 	 Pleurochrysis_sp. 	 genomic_data 	 puPleSpec1 	 hic-arima2
 protists 	 Prorocentrum_lima 	 genomic_data 	 pyProLima1 	 hic-arima2
 protists 	 Prorocentrum_micans 	 genomic_data 	 pyProMica2 	 hic-arima2

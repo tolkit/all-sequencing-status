@@ -5,12 +5,13 @@
 | *Ischnura elegans* | Coenagrionidae | Odonata | released |
 | *Ischnura elegans* | Coenagrionidae | Odonata | curated |
 | *Ischnura elegans* | Coenagrionidae | Odonata | draft |
+| *Platycnemis pennipes* | Platycnemididae | Odonata | draft |
 
 Number of species released: 1
 
 Number of species curated: 1
 
-Number of species with draft assemblies: 1
+Number of species with draft assemblies: 2
 
 # Odonata genomic data
 
@@ -27,6 +28,7 @@ Number of species with draft assemblies: 1
 | *Coenagrion puella* | Coenagrionidae | Odonata | pacbio |
 | *Enallagma cyathigerum* | Coenagrionidae | Odonata | 10x |
 | *Enallagma cyathigerum* | Coenagrionidae | Odonata | pacbio |
+| *Enallagma cyathigerum* | Coenagrionidae | Odonata | hic-arima2 |
 | *Ischnura elegans* | Coenagrionidae | Odonata | 10x |
 | *Ischnura elegans* | Coenagrionidae | Odonata | hic-arima2 |
 | *Ischnura elegans* | Coenagrionidae | Odonata | pacbio |
@@ -36,7 +38,7 @@ Number of species with draft assemblies: 1
 | *Sympetrum striolatum* | Libellulidae | Odonata | 10x |
 | *Sympetrum striolatum* | Libellulidae | Odonata | pacbio |
 
-Number of species with Hi-C data: 6
+Number of species with Hi-C data: 7
 
 Number of species with PacBio HiFi data: 7
 

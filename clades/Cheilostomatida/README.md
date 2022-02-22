@@ -18,7 +18,6 @@ Number of species with draft assemblies: 1
 | -- | --- | --- | --- |
 | *Bugula neritina* | Bugulidae | Cheilostomatida | 10x |
 | *Bugula neritina* | Bugulidae | Cheilostomatida | hic-arima2 |
-| *Bugula neritina* | Bugulidae | Cheilostomatida | pacbio |
 | *Bugulina stolonifera* | Bugulidae | Cheilostomatida | 10x |
 | *Bugulina stolonifera* | Bugulidae | Cheilostomatida | hic-arima2 |
 | *Bugulina stolonifera* | Bugulidae | Cheilostomatida | pacbio |
@@ -32,6 +31,6 @@ Number of species with draft assemblies: 1
 
 Number of species with Hi-C data: 4
 
-Number of species with PacBio HiFi data: 5
+Number of species with PacBio HiFi data: 4
 
 Number of species with 10X data: 4

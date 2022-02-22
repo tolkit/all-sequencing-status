@@ -21,10 +21,9 @@ Number of species with draft assemblies: 1
 | *Aplidium turbinatum* | Polyclinidae | Aplousobranchia | pacbio |
 | *Clavelina lepadiformis* | Clavelinidae | Aplousobranchia | hic-arima2 |
 | *Clavelina lepadiformis* | Clavelinidae | Aplousobranchia | 10x |
-| *Clavelina lepadiformis* | Clavelinidae | Aplousobranchia | pacbio |
 
 Number of species with Hi-C data: 2
 
-Number of species with PacBio HiFi data: 2
+Number of species with PacBio HiFi data: 1
 
 Number of species with 10X data: 2

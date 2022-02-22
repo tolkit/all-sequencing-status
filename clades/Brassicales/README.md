@@ -1,3 +1,15 @@
+# Brassicales assembly data
+
+| Species | Family | Order | Data type |
+| -- | --- | --- | --- |
+| *Arabidopsis thaliana* | Brassicaceae | Brassicales | draft |
+
+Number of species released: 0
+
+Number of species curated: 0
+
+Number of species with draft assemblies: 1
+
 # Brassicales genomic data
 
 | Species | Family | Order | Data type |

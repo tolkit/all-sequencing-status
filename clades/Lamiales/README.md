@@ -2,15 +2,19 @@
 
 | Species | Family | Order | Data type |
 | -- | --- | --- | --- |
+| *Ballota nigra* | Lamiaceae | Lamiales | curated |
 | *Lycopus europaeus* | Lamiaceae | Lamiales | curated |
 | *Ballota nigra* | Lamiaceae | Lamiales | draft |
+| *Linaria vulgaris* | Plantaginaceae | Lamiales | draft |
 | *Lycopus europaeus* | Lamiaceae | Lamiales | draft |
+| *Misopates orontium* | Plantaginaceae | Lamiales | draft |
+| *Scutellaria galericulata* | Lamiaceae | Lamiales | draft |
 
 Number of species released: 0
 
-Number of species curated: 1
+Number of species curated: 2
 
-Number of species with draft assemblies: 2
+Number of species with draft assemblies: 5
 
 # Lamiales genomic data
 
@@ -51,11 +55,13 @@ Number of species with draft assemblies: 2
 | *Orobanche hederae* | Orobanchaceae | Lamiales | 10x |
 | *Orobanche hederae* | Orobanchaceae | Lamiales | pacbio |
 | *Orobanche minor* | Orobanchaceae | Lamiales | hic-arima2 |
+| *Plantago coronopus* | Plantaginaceae | Lamiales | hic-arima2 |
 | *Plantago coronopus* | Plantaginaceae | Lamiales | pacbio |
 | *Plantago lanceolata* | Plantaginaceae | Lamiales | hic-arima2 |
 | *Plantago lanceolata* | Plantaginaceae | Lamiales | pacbio |
+| *Salvia verbenaca* | Lamiaceae | Lamiales | hic-arima2 |
 | *Salvia verbenaca* | Lamiaceae | Lamiales | pacbio |
-| *Scrophularia nodosa* | Scrophulariaceae | Lamiales | pacbio |
+| *Scrophularia auriculata* | Scrophulariaceae | Lamiales | pacbio |
 | *Scutellaria galericulata* | Lamiaceae | Lamiales | hic-arima2 |
 | *Scutellaria galericulata* | Lamiaceae | Lamiales | pacbio |
 | *Scutellaria minor* | Lamiaceae | Lamiales | pacbio |
@@ -75,7 +81,7 @@ Number of species with draft assemblies: 2
 | *Veronica spicata* | Plantaginaceae | Lamiales | hic-arima2 |
 | *Veronica spicata* | Plantaginaceae | Lamiales | pacbio |
 
-Number of species with Hi-C data: 19
+Number of species with Hi-C data: 21
 
 Number of species with PacBio HiFi data: 27
 

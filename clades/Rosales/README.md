@@ -4,9 +4,11 @@
 | -- | --- | --- | --- |
 | *Malus sylvestris* | Rosaceae | Rosales | released |
 | *Filipendula ulmaria* | Rosaceae | Rosales | curated |
+| *Geum urbanum* | Rosaceae | Rosales | curated |
 | *Malus domestica* | Rosaceae | Rosales | curated |
 | *Malus sylvestris* | Rosaceae | Rosales | curated |
 | *Potentilla anserina* | Rosaceae | Rosales | curated |
+| *Urtica urens* | Urticaceae | Rosales | curated |
 | *Geum urbanum* | Rosaceae | Rosales | draft |
 | *Filipendula ulmaria* | Rosaceae | Rosales | draft |
 | *Malus domestica* | Rosaceae | Rosales | draft |
@@ -16,7 +18,7 @@
 
 Number of species released: 1
 
-Number of species curated: 4
+Number of species curated: 6
 
 Number of species with draft assemblies: 6
 
@@ -29,6 +31,7 @@ Number of species with draft assemblies: 6
 | *Alchemilla arvensis* | Rosaceae | Rosales | hic-arima2 |
 | *Alchemilla arvensis* | Rosaceae | Rosales | pacbio |
 | *Crataegus laevigata* | Rosaceae | Rosales | pacbio |
+| *Crataegus monogyna* | Rosaceae | Rosales | hic-arima2 |
 | *Crataegus monogyna* | Rosaceae | Rosales | pacbio |
 | *Dasiphora fruticosa* | Rosaceae | Rosales | hic-arima2 |
 | *Dasiphora fruticosa* | Rosaceae | Rosales | pacbio |
@@ -62,7 +65,7 @@ Number of species with draft assemblies: 6
 | *Potentilla anserina* | Rosaceae | Rosales | 10x |
 | *Potentilla anserina* | Rosaceae | Rosales | hic-arima2 |
 | *Potentilla anserina* | Rosaceae | Rosales | pacbio |
-| *Pyrus cordata* | Rosaceae | Rosales | hic-arima2 |
+| *Prunus domestica* | Rosaceae | Rosales | hic-arima2 |
 | *Rhamnus cathartica* | Rhamnaceae | Rosales | pacbio |
 | *Sorbus aucuparia* | Rosaceae | Rosales | 10x |
 | *Sorbus aucuparia* | Rosaceae | Rosales | hic-arima2 |
@@ -72,7 +75,7 @@ Number of species with draft assemblies: 6
 | *Urtica urens* | Urticaceae | Rosales | hic-arima2 |
 | *Urtica urens* | Urticaceae | Rosales | pacbio |
 
-Number of species with Hi-C data: 17
+Number of species with Hi-C data: 18
 
 Number of species with PacBio HiFi data: 17
 

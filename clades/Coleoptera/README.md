@@ -13,6 +13,7 @@
 | *Pyrochroa serraticornis* | Pyrochroidae | Coleoptera | released |
 | *Rhagonycha fulva* | Cantharidae | Coleoptera | released |
 | *Adalia bipunctata* | Coccinellidae | Coleoptera | curated |
+| *Agrypnus murinus* | Elateridae | Coleoptera | curated |
 | *Apoderus coryli* | Attelabidae | Coleoptera | curated |
 | *Cantharis rustica* | Cantharidae | Coleoptera | curated |
 | *Coccinella septempunctata* | Coccinellidae | Coleoptera | curated |
@@ -28,10 +29,12 @@
 | *Cantharis rustica* | Cantharidae | Coleoptera | draft |
 | *Coccinella septempunctata* | Coccinellidae | Coleoptera | draft |
 | *Harmonia axyridis* | Coccinellidae | Coleoptera | draft |
+| *Leistus spinibarbis* | Carabidae | Coleoptera | draft |
 | *Malachius bipustulatus* | Melyridae | Coleoptera | draft |
 | *Nebria brevicollis* | Carabidae | Coleoptera | draft |
 | *Nebria salina* | Carabidae | Coleoptera | draft |
 | *Ocypus olens* | Staphylinidae | Coleoptera | draft |
+| *Philonthus cognatus* | Staphylinidae | Coleoptera | draft |
 | *Podabrus alpinus* | Cantharidae | Coleoptera | draft |
 | *Pterostichus madidus* | Carabidae | Coleoptera | draft |
 | *Pyrochroa serraticornis* | Pyrochroidae | Coleoptera | draft |
@@ -39,9 +42,9 @@
 
 Number of species released: 10
 
-Number of species curated: 10
+Number of species curated: 11
 
-Number of species with draft assemblies: 14
+Number of species with draft assemblies: 16
 
 # Coleoptera genomic data
 
@@ -57,6 +60,7 @@ Number of species with draft assemblies: 14
 | *Adalia decempunctata* | Coccinellidae | Coleoptera | hic-arima2 |
 | *Adalia decempunctata* | Coccinellidae | Coleoptera | pacbio |
 | *Agabus bipustulatus* | Dytiscidae | Coleoptera | hic-arima2 |
+| *Agonum fuliginosum* | Carabidae | Coleoptera | pacbio |
 | *Agrilus sulcicollis* | Buprestidae | Coleoptera | hic-arima2 |
 | *Agriotes acuminatus* | Elateridae | Coleoptera | hic-arima2 |
 | *Agriotes lineatus* | Elateridae | Coleoptera | hic-arima2 |
@@ -266,6 +270,6 @@ Number of species with draft assemblies: 14
 
 Number of species with Hi-C data: 107
 
-Number of species with PacBio HiFi data: 54
+Number of species with PacBio HiFi data: 55
 
 Number of species with 10X data: 55

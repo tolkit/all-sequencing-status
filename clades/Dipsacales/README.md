@@ -14,9 +14,10 @@
 | *Sambucus nigra* | Adoxaceae | Dipsacales | pacbio |
 | *Scabiosa columbaria* | Caprifoliaceae | Dipsacales | hic-arima2 |
 | *Valeriana officinalis* | Caprifoliaceae | Dipsacales | hic-arima2 |
+| *Viburnum lantana* | Adoxaceae | Dipsacales | hic-arima2 |
 | *Viburnum lantana* | Adoxaceae | Dipsacales | pacbio |
 
-Number of species with Hi-C data: 4
+Number of species with Hi-C data: 5
 
 Number of species with PacBio HiFi data: 5
 

@@ -2,11 +2,12 @@
 
 | Species | Family | Order | Data type |
 | -- | --- | --- | --- |
+| *Polygonum aviculare* | Polygonaceae | Caryophyllales | curated |
 | *Polygonum aviculare* | Polygonaceae | Caryophyllales | draft |
 
 Number of species released: 0
 
-Number of species curated: 0
+Number of species curated: 1
 
 Number of species with draft assemblies: 1
 
@@ -46,6 +47,7 @@ Number of species with draft assemblies: 1
 | *Rumex sanguineus* | Polygonaceae | Caryophyllales | pacbio |
 | *Silene acaulis* | Caryophyllaceae | Caryophyllales | hic-arima2 |
 | *Silene acaulis* | Caryophyllaceae | Caryophyllales | pacbio |
+| *Silene dioica* | Caryophyllaceae | Caryophyllales | hic-arima2 |
 | *Silene dioica* | Caryophyllaceae | Caryophyllales | pacbio |
 | *Silene latifolia* | Caryophyllaceae | Caryophyllales | pacbio |
 | *Stellaria media* | Caryophyllaceae | Caryophyllales | 10x |
@@ -53,7 +55,7 @@ Number of species with draft assemblies: 1
 | *Stellaria media* | Caryophyllaceae | Caryophyllales | pacbio |
 | *Suaeda vera* | Chenopodiaceae | Caryophyllales | pacbio |
 
-Number of species with Hi-C data: 15
+Number of species with Hi-C data: 16
 
 Number of species with PacBio HiFi data: 14
 

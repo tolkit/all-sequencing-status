@@ -9,6 +9,7 @@
 | *Nemoura dubitans* | Nemouridae | Plecoptera | curated |
 | *Nemurella pictetii* | Nemouridae | Plecoptera | curated |
 | *Brachyptera putata* | Taeniopterygidae | Plecoptera | draft |
+| *Leuctra nigra* | Leuctridae | Plecoptera | draft |
 | *Nemoura dubitans* | Nemouridae | Plecoptera | draft |
 | *Nemurella pictetii* | Nemouridae | Plecoptera | draft |
 
@@ -16,7 +17,7 @@ Number of species released: 3
 
 Number of species curated: 3
 
-Number of species with draft assemblies: 3
+Number of species with draft assemblies: 4
 
 # Plecoptera genomic data
 

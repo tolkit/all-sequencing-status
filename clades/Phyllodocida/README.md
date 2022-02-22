@@ -1,3 +1,16 @@
+# Phyllodocida assembly data
+
+| Species | Family | Order | Data type |
+| -- | --- | --- | --- |
+| *Alitta virens* | Nereididae | Phyllodocida | curated |
+| *Alitta virens* | Nereididae | Phyllodocida | draft |
+
+Number of species released: 0
+
+Number of species curated: 1
+
+Number of species with draft assemblies: 1
+
 # Phyllodocida genomic data
 
 | Species | Family | Order | Data type |

@@ -16,12 +16,14 @@
 | *Gymnosoma rotundatum* | Tachinidae | Diptera | released |
 | *Melanostoma mellinum* | Syrphidae | Diptera | released |
 | *Platycheirus albimanus* | Syrphidae | Diptera | released |
+| *Sarcophaga caerulescens* | Sarcophagidae | Diptera | released |
 | *Scaeva pyrastri* | Syrphidae | Diptera | released |
 | *Sicus ferrugineus* | Conopidae | Diptera | released |
 | *Syritta pipiens* | Syrphidae | Diptera | released |
 | *Tachina fera* | Tachinidae | Diptera | released |
 | *Thecocarcelia acutangulata* | Tachinidae | Diptera | released |
 | *Volucella inanis* | Syrphidae | Diptera | released |
+| *Volucella inflata* | Syrphidae | Diptera | released |
 | *Xanthogramma pedissequum* | Syrphidae | Diptera | released |
 | *Xylota sylvarum* | Syrphidae | Diptera | released |
 | *Bellardia pandia* | Calliphoridae | Diptera | curated |
@@ -31,32 +33,42 @@
 | *Clusia tigrina* | Clusiidae | Diptera | curated |
 | *Coremacera marginata* | Sciomyzidae | Diptera | curated |
 | *Criorhina berberina* | Syrphidae | Diptera | curated |
+| *Epistrophe grossulariae* | Syrphidae | Diptera | curated |
 | *Eristalis arbustorum* | Syrphidae | Diptera | curated |
 | *Eristalis pertinax* | Syrphidae | Diptera | curated |
 | *Eristalis tenax* | Syrphidae | Diptera | curated |
 | *Eupeodes latifasciatus* | Syrphidae | Diptera | curated |
 | *Gymnosoma rotundatum* | Tachinidae | Diptera | curated |
+| *Leucozona laternaria* | Syrphidae | Diptera | curated |
 | *Melanostoma mellinum* | Syrphidae | Diptera | curated |
+| *Myathropa florea* | Syrphidae | Diptera | curated |
 | *Platycheirus albimanus* | Syrphidae | Diptera | curated |
+| *Pollenia angustigena* | Polleniidae | Diptera | curated |
+| *Protocalliphora azurea* | Calliphoridae | Diptera | curated |
+| *Rhingia campestris* | Syrphidae | Diptera | curated |
 | *Sarcophaga caerulescens* | Sarcophagidae | Diptera | curated |
 | *Sarcophaga carnaria* | Sarcophagidae | Diptera | curated |
+| *Sarcophaga rosellei* | Sarcophagidae | Diptera | curated |
 | *Scaeva pyrastri* | Syrphidae | Diptera | curated |
 | *Sicus ferrugineus* | Conopidae | Diptera | curated |
 | *Syritta pipiens* | Syrphidae | Diptera | curated |
 | *Tachina fera* | Tachinidae | Diptera | curated |
 | *Thecocarcelia acutangulata* | Tachinidae | Diptera | curated |
 | *Volucella inanis* | Syrphidae | Diptera | curated |
+| *Volucella inflata* | Syrphidae | Diptera | curated |
 | *Xanthogramma pedissequum* | Syrphidae | Diptera | curated |
 | *Xylota sylvarum* | Syrphidae | Diptera | curated |
 | *Sicus ferrugineus* | Conopidae | Diptera | draft |
 | *Bellardia pandia* | Calliphoridae | Diptera | draft |
 | *Bibio marci* | Bibionidae | Diptera | draft |
+| *Bombylius discolor* | Bombyliidae | Diptera | draft |
 | *Cheilosia vulpina* | Syrphidae | Diptera | draft |
 | *Chrysotoxum bicinctum* | Syrphidae | Diptera | draft |
 | *Clusia tigrina* | Clusiidae | Diptera | draft |
 | *Coremacera marginata* | Sciomyzidae | Diptera | draft |
 | *Criorhina berberina* | Syrphidae | Diptera | draft |
 | *Empis livida* | Empididae | Diptera | draft |
+| *Epicampocera succincta* | Tachinidae | Diptera | draft |
 | *Epistrophe grossulariae* | Syrphidae | Diptera | draft |
 | *Eristalis arbustorum* | Syrphidae | Diptera | draft |
 | *Eristalis pertinax* | Syrphidae | Diptera | draft |
@@ -64,9 +76,11 @@
 | *Eupeodes latifasciatus* | Syrphidae | Diptera | draft |
 | *Gymnosoma rotundatum* | Tachinidae | Diptera | draft |
 | *Leucozona laternaria* | Syrphidae | Diptera | draft |
+| *Machimus atricapillus* | Asilidae | Diptera | draft |
 | *Melanostoma mellinum* | Syrphidae | Diptera | draft |
 | *Merzomyia westermanni* | Tephritidae | Diptera | draft |
 | *Myathropa florea* | Syrphidae | Diptera | draft |
+| *Nephrotoma flavescens* | Tipulidae | Diptera | draft |
 | *Platycheirus albimanus* | Syrphidae | Diptera | draft |
 | *Pollenia angustigena* | Polleniidae | Diptera | draft |
 | *Protocalliphora azurea* | Calliphoridae | Diptera | draft |
@@ -74,6 +88,7 @@
 | *Sarcophaga rosellei* | Sarcophagidae | Diptera | draft |
 | *Sarcophaga variegata* | Sarcophagidae | Diptera | draft |
 | *Scaeva pyrastri* | Syrphidae | Diptera | draft |
+| *Stomorhina lunata* | Rhiniidae | Diptera | draft |
 | *Syritta pipiens* | Syrphidae | Diptera | draft |
 | *Tachina fera* | Tachinidae | Diptera | draft |
 | *Thecocarcelia acutangulata* | Tachinidae | Diptera | draft |
@@ -82,11 +97,11 @@
 | *Xanthogramma pedissequum* | Syrphidae | Diptera | draft |
 | *Xylota sylvarum* | Syrphidae | Diptera | draft |
 
-Number of species released: 22
+Number of species released: 24
 
-Number of species curated: 24
+Number of species curated: 32
 
-Number of species with draft assemblies: 33
+Number of species with draft assemblies: 38
 
 # Diptera genomic data
 
@@ -132,6 +147,7 @@ Number of species with draft assemblies: 33
 | *Cheilosia impressa* | Syrphidae | Diptera | hic-arima2 |
 | *Cheilosia pagana* | Syrphidae | Diptera | 10x |
 | *Cheilosia pagana* | Syrphidae | Diptera | pacbio |
+| *Cheilosia pagana* | Syrphidae | Diptera | hic-arima2 |
 | *Cheilosia proxima* | Syrphidae | Diptera | hic-arima2 |
 | *Cheilosia scutellata* | Syrphidae | Diptera | hic-arima2 |
 | *Cheilosia soror* | Syrphidae | Diptera | 10x |
@@ -162,6 +178,7 @@ Number of species with draft assemblies: 33
 | *Chrysotoxum verralli* | Syrphidae | Diptera | pacbio |
 | *Cistogaster globosa* | Tachinidae | Diptera | 10x |
 | *Cistogaster globosa* | Tachinidae | Diptera | pacbio |
+| *Cistogaster globosa* | Tachinidae | Diptera | hic-arima2 |
 | *Cleigastra apicalis* | Scathophagidae | Diptera | hic-arima2 |
 | *Clusia tigrina* | Clusiidae | Diptera | 10x |
 | *Clusia tigrina* | Clusiidae | Diptera | pacbio |
@@ -393,6 +410,7 @@ Number of species with draft assemblies: 33
 | *Rhagio tringarius* | Rhagionidae | Diptera | pacbio |
 | *Rhingia campestris* | Syrphidae | Diptera | 10x |
 | *Rhingia campestris* | Syrphidae | Diptera | pacbio |
+| *Rhingia campestris* | Syrphidae | Diptera | hic-arima2 |
 | *Rhingia rostrata* | Syrphidae | Diptera | 10x |
 | *Rhingia rostrata* | Syrphidae | Diptera | hic-arima2 |
 | *Rhinophora lepida* | Rhinophoridae | Diptera | 10x |
@@ -494,7 +512,7 @@ Number of species with draft assemblies: 33
 | *Xylota sylvarum* | Syrphidae | Diptera | hic-arima |
 | *Xylota sylvarum* | Syrphidae | Diptera | pacbio |
 
-Number of species with Hi-C data: 131
+Number of species with Hi-C data: 134
 
 Number of species with PacBio HiFi data: 127
 

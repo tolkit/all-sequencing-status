@@ -3,13 +3,14 @@
 | Species | Family | Order | Data type |
 | -- | --- | --- | --- |
 | *Aelia acuminata* | Pentatomidae | Hemiptera | released |
+| *Acanthosoma haemorrhoidale* | Acanthosomatidae | Hemiptera | curated |
 | *Aelia acuminata* | Pentatomidae | Hemiptera | curated |
 | *Acanthosoma haemorrhoidale* | Acanthosomatidae | Hemiptera | draft |
 | *Aelia acuminata* | Pentatomidae | Hemiptera | draft |
 
 Number of species released: 1
 
-Number of species curated: 1
+Number of species curated: 2
 
 Number of species with draft assemblies: 2
 
@@ -110,8 +111,10 @@ Number of species with draft assemblies: 2
 | *Plea minutissima* | Pleidae | Hemiptera | 10x |
 | *Plea minutissima* | Pleidae | Hemiptera | pacbio |
 | *Plea minutissima* | Pleidae | Hemiptera | hic-arima2 |
+| *Pseudococcus viburni* | Pseudococcidae | Hemiptera | hic-arima2 |
 | *Raglius alboacuminatus* | Rhyparochromidae | Hemiptera | hic-arima2 |
 | *Rhabdomiris striatellus* | Miridae | Hemiptera | hic-arima2 |
+| *Rhabdomiris striatellus* | Miridae | Hemiptera | pacbio |
 | *Rhaphigaster nebulosa* | Pentatomidae | Hemiptera | 10x |
 | *Rhaphigaster nebulosa* | Pentatomidae | Hemiptera | hic-arima2 |
 | *Rhopalus parumpunctatus* | Rhopalidae | Hemiptera | pacbio |
@@ -127,8 +130,8 @@ Number of species with draft assemblies: 2
 | *Stictopleurus punctatonervosus* | Rhopalidae | Hemiptera | hic-arima2 |
 | *Velia caprai* | Veliidae | Hemiptera | hic-arima2 |
 
-Number of species with Hi-C data: 37
+Number of species with Hi-C data: 38
 
-Number of species with PacBio HiFi data: 41
+Number of species with PacBio HiFi data: 42
 
 Number of species with 10X data: 31

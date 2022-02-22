@@ -6,6 +6,7 @@
 | *Steromphala cineraria* | Trochidae | Trochida | released |
 | *Phorcus lineatus* | Trochidae | Trochida | curated |
 | *Steromphala cineraria* | Trochidae | Trochida | curated |
+| *Gibbula magus* | Trochidae | Trochida | draft |
 | *Phorcus lineatus* | Trochidae | Trochida | draft |
 | *Steromphala cineraria* | Trochidae | Trochida | draft |
 
@@ -13,7 +14,7 @@ Number of species released: 2
 
 Number of species curated: 2
 
-Number of species with draft assemblies: 2
+Number of species with draft assemblies: 3
 
 # Trochida genomic data
 

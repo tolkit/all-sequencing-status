@@ -1,3 +1,19 @@
+# Poales assembly data
+
+| Species | Family | Order | Data type |
+| -- | --- | --- | --- |
+| *Juncus effusus* | Juncaceae | Poales | curated |
+| *Carex depauperata* | Cyperaceae | Poales | draft |
+| *Juncus effusus* | Juncaceae | Poales | draft |
+| *Luzula sylvatica* | Juncaceae | Poales | draft |
+| *Schoenoplectus lacustris* | Cyperaceae | Poales | draft |
+
+Number of species released: 0
+
+Number of species curated: 1
+
+Number of species with draft assemblies: 4
+
 # Poales genomic data
 
 | Species | Family | Order | Data type |

@@ -31,13 +31,16 @@
 | *Vespula germanica* | Vespidae | Hymenoptera | released |
 | *Vespula vulgaris* | Vespidae | Hymenoptera | released |
 | *Ancistrocerus nigricornis* | Vespidae | Hymenoptera | curated |
+| *Andrena dorsata* | Andrenidae | Hymenoptera | curated |
 | *Andrena haemorrhoa* | Andrenidae | Hymenoptera | curated |
+| *Andrena minutula* | Andrenidae | Hymenoptera | curated |
 | *Anoplius nigerrimus* | Pompilidae | Hymenoptera | curated |
 | *Athalia rosae* | Tenthredinidae | Hymenoptera | curated |
 | *Bombus campestris* | Apidae | Hymenoptera | curated |
 | *Bombus hortorum* | Apidae | Hymenoptera | curated |
 | *Bombus hypnorum* | Apidae | Hymenoptera | curated |
 | *Bombus pascuorum* | Apidae | Hymenoptera | curated |
+| *Bombus pratorum* | Apidae | Hymenoptera | curated |
 | *Bombus sylvestris* | Apidae | Hymenoptera | curated |
 | *Bombus terrestris* | Apidae | Hymenoptera | curated |
 | *Cerceris rybyensis* | Crabronidae | Hymenoptera | curated |
@@ -61,6 +64,7 @@
 | *Vespa velutina* | Vespidae | Hymenoptera | curated |
 | *Vespula germanica* | Vespidae | Hymenoptera | curated |
 | *Vespula vulgaris* | Vespidae | Hymenoptera | curated |
+| *Amblyteles armatorius* | Ichneumonidae | Hymenoptera | draft |
 | *Ancistrocerus nigricornis* | Vespidae | Hymenoptera | draft |
 | *Andrena dorsata* | Andrenidae | Hymenoptera | draft |
 | *Andrena haemorrhoa* | Andrenidae | Hymenoptera | draft |
@@ -74,6 +78,7 @@
 | *Bombus pratorum* | Apidae | Hymenoptera | draft |
 | *Bombus sylvestris* | Apidae | Hymenoptera | draft |
 | *Bombus terrestris* | Apidae | Hymenoptera | draft |
+| *Buathra laborator* | Ichneumonidae | Hymenoptera | draft |
 | *Cerceris rybyensis* | Crabronidae | Hymenoptera | draft |
 | *Dolichovespula media* | Vespidae | Hymenoptera | draft |
 | *Dolichovespula saxonica* | Vespidae | Hymenoptera | draft |
@@ -88,6 +93,7 @@
 | *Nomada fabriciana* | Apidae | Hymenoptera | draft |
 | *Nysson spinosus* | Crabronidae | Hymenoptera | draft |
 | *Osmia bicornis* | Megachilidae | Hymenoptera | draft |
+| *Pemphredon lugubris* | Crabronidae | Hymenoptera | draft |
 | *Seladonia tumulorum* | Halictidae | Hymenoptera | draft |
 | *Sphecodes monilicornis* | Halictidae | Hymenoptera | draft |
 | *Tenthredo notha* | Tenthredinidae | Hymenoptera | draft |
@@ -98,9 +104,9 @@
 
 Number of species released: 28
 
-Number of species curated: 31
+Number of species curated: 34
 
-Number of species with draft assemblies: 34
+Number of species with draft assemblies: 37
 
 # Hymenoptera genomic data
 
@@ -227,6 +233,7 @@ Number of species with draft assemblies: 34
 | *Megachile ligniseca* | Megachilidae | Hymenoptera | hic-arima2 |
 | *Megachile willughbiella* | Megachilidae | Hymenoptera | 10x |
 | *Megachile willughbiella* | Megachilidae | Hymenoptera | pacbio |
+| *Megachile willughbiella* | Megachilidae | Hymenoptera | hic-arima2 |
 | *Mellinus arvensis* | Crabronidae | Hymenoptera | 10x |
 | *Mimumesa dahlbomi* | Crabronidae | Hymenoptera | 10x |
 | *Mimumesa dahlbomi* | Crabronidae | Hymenoptera | hic-arima2 |
@@ -265,6 +272,7 @@ Number of species with draft assemblies: 34
 | *Sphecodes ephippius* | Halictidae | Hymenoptera | pacbio |
 | *Sphecodes hyalinatus* | Halictidae | Hymenoptera | 10x |
 | *Sphecodes hyalinatus* | Halictidae | Hymenoptera | pacbio |
+| *Sphecodes hyalinatus* | Halictidae | Hymenoptera | hic-arima2 |
 | *Sphecodes monilicornis* | Halictidae | Hymenoptera | 10x |
 | *Sphecodes monilicornis* | Halictidae | Hymenoptera | hic-arima2 |
 | *Sphecodes monilicornis* | Halictidae | Hymenoptera | pacbio |
@@ -291,7 +299,7 @@ Number of species with draft assemblies: 34
 | *Vespula vulgaris* | Vespidae | Hymenoptera | hic-arima2 |
 | *Vespula vulgaris* | Vespidae | Hymenoptera | pacbio |
 
-Number of species with Hi-C data: 55
+Number of species with Hi-C data: 57
 
 Number of species with PacBio HiFi data: 63
 
